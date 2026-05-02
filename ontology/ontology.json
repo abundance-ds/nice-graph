@@ -1,0 +1,180 @@
+{
+  "version": "0.5.1",
+  "description": "NICE Technology Appraisal knowledge graph ontology. v0.5.1: stable after 5 rounds across 50 TAs (2003-2025). Ready for bulk extraction.",
+  "changelog": {
+    "0.5.1": "Round 5 final fixes: added treatment_duration_type (as_needed). Zero structural changes needed. Schema declared stable.",
+    "0.5.0": "Round 4 refinements: added intervention_type enum, model_type (cost_analysis), gap_type (instrument_insensitivity), comparator_type (device_comparison). Schema structurally stable — no new entity types or decision categories needed.",
+    "0.4.0": "Round 3 refinements: added decision_categories (mortality_assumption, equivalence_assumption), model_type (cost_comparison), icer_band direction field (incremental/decremental), gap_type (single_arm_evidence_only), cross_ta reason (cdf_reconsideration).",
+    "0.3.0": "Round 2 refinements: added decision_categories (cure_assumption, discount_rate), disease_settings (relapsed_refractory, recurrent), model_type (mixture_cure), therapeutic_area now array, icer_band now array, treatment_duration_type (single_administration), is_paediatric flag.",
+    "0.2.0": "Round 1 refinements: added therapeutic_area values (gastroenterology, rheumatology, immunology), disease_setting values (prevention_secondary, relapsing_remitting), comparator_type enum, eligible_population field, decision_categories (carer_utility, baseline_risk), impact_on_icer enum.",
+    "0.1.0": "Initial merge from 2-agent exploration across 20 TAs."
+  },
+
+  "entity_types": {
+    "TechnologyAppraisal": {
+      "definition": "A single NICE technology appraisal process and its outcome, identified by TA number.",
+      "attributes": ["ta_number", "title", "issue_date", "recommendation_type", "restriction_details", "appraisal_type", "committee_name", "erg_or_eag_name", "line_of_therapy", "eligible_population", "methods_guide_era"]
+    },
+    "Intervention": {
+      "definition": "The drug, device, cell therapy, or digital health technology under appraisal. A TA may appraise multiple interventions.",
+      "attributes": ["generic_name", "brand_name", "manufacturer", "drug_class", "mechanism_of_action", "route_of_administration", "is_combination_regimen", "combination_components", "treatment_duration_type", "biosimilar_available", "intervention_type"],
+      "intervention_types": ["drug", "biologic", "device", "procedure", "cell_therapy", "digital_health"]
+    },
+    "Condition": {
+      "definition": "The disease or clinical context at marketing-authorisation specificity (not just broad disease area).",
+      "attributes": ["condition_name", "therapeutic_area", "disease_setting", "biomarker_defined_population", "biomarker_name"]
+    },
+    "Comparator": {
+      "definition": "A treatment or strategy compared against the intervention. Comparator selection is often disputed.",
+      "attributes": ["comparator_name", "comparator_type", "is_established_practice", "committee_preferred"]
+    },
+    "ClinicalTrial": {
+      "definition": "A named clinical study providing key evidence for the appraisal.",
+      "attributes": ["trial_name", "study_design", "phase", "blinding", "is_pivotal", "primary_outcome", "sample_size", "crossover_occurred", "crossover_adjusted", "generalisability_concern"]
+    },
+    "EconomicModel": {
+      "definition": "The cost-effectiveness model structure and key parameters.",
+      "attributes": ["model_type", "model_source", "time_horizon", "cycle_length", "health_states"]
+    },
+    "MethodologicalDecision": {
+      "definition": "A specific methodological choice the committee ruled on, capturing company vs ERG positions and the committee conclusion. Highest-value entity for cross-TA queries.",
+      "attributes": ["decision_category", "description", "company_position", "erg_position", "committee_preference", "impact_on_icer"],
+      "decision_categories": [
+        "survival_extrapolation",
+        "treatment_effect_duration",
+        "treatment_effect_waning",
+        "indirect_comparison_method",
+        "utility_source",
+        "utility_value_choice",
+        "surrogate_endpoint_validity",
+        "comparator_selection",
+        "population_generalisability",
+        "subgroup_definition",
+        "crossover_adjustment",
+        "proportional_hazards",
+        "cost_assumption",
+        "stopping_rule",
+        "model_structure",
+        "treatment_sequencing",
+        "carer_utility",
+        "baseline_risk",
+        "cure_assumption",
+        "discount_rate",
+        "mortality_assumption",
+        "equivalence_assumption",
+        "other"
+      ]
+    },
+    "EvidenceGap": {
+      "definition": "An explicit gap in evidence highlighted by the committee, often driving CDF entry or conditional recommendations.",
+      "attributes": ["gap_type", "description"],
+      "gap_types": [
+        "immature_overall_survival",
+        "no_direct_comparison",
+        "no_uk_data",
+        "surrogate_not_validated",
+        "missing_subgroup_data",
+        "missing_quality_of_life_data",
+        "short_follow_up",
+        "no_comparator_data",
+        "missing_real_world_evidence",
+        "single_arm_evidence_only",
+        "instrument_insensitivity",
+        "other"
+      ]
+    },
+    "CommercialArrangement": {
+      "definition": "A pricing or access arrangement between manufacturer and NHS (PAS, MAA, CAA).",
+      "attributes": ["arrangement_type", "discount_confidential", "critical_for_recommendation"],
+      "arrangement_types": [
+        "simple_discount_pas",
+        "complex_pas",
+        "managed_access_agreement",
+        "commercial_access_agreement",
+        "free_initiation",
+        "dose_cap",
+        "none"
+      ]
+    }
+  },
+
+  "relation_types": {
+    "simple": {
+      "APPRAISES": "TechnologyAppraisal -> Intervention",
+      "TREATS": "Intervention -> Condition",
+      "COMPARED_WITH": "TechnologyAppraisal -> Comparator",
+      "EVIDENCED_BY": "TechnologyAppraisal -> ClinicalTrial",
+      "USES_MODEL": "TechnologyAppraisal -> EconomicModel",
+      "HAS_ARRANGEMENT": "TechnologyAppraisal -> CommercialArrangement",
+      "SUBMITTED_BY": "TechnologyAppraisal -> manufacturer (string)"
+    },
+    "reified": {
+      "HAS_METHODOLOGICAL_DECISION": "TechnologyAppraisal -> MethodologicalDecision",
+      "HAS_EVIDENCE_GAP": "TechnologyAppraisal -> EvidenceGap"
+    },
+    "cross_ta": {
+      "REFERENCES": "TechnologyAppraisal -> TechnologyAppraisal (with reason: precedent, utility_reuse, comparator_guidance, same_condition, same_drug, cdf_reconsideration)",
+      "SUPERSEDES": "TechnologyAppraisal -> TechnologyAppraisal",
+      "PARTIALLY_UPDATES": "TechnologyAppraisal -> TechnologyAppraisal (part-review of earlier guidance)"
+    }
+  },
+
+  "special_considerations": {
+    "definition": "Framework-level flags that affect ICER thresholds and decision logic.",
+    "fields": {
+      "end_of_life_considered": "boolean",
+      "end_of_life_met": "boolean",
+      "severity_modifier_applied": "boolean",
+      "cancer_drugs_fund_considered": "boolean",
+      "cancer_drugs_fund_eligible": "boolean",
+      "innovation_acknowledged": "boolean",
+      "equality_issues_raised": "boolean"
+    }
+  },
+
+  "icer_band": {
+    "definition": "Committee's preferred ICER range as categorical band. Avoids specific numbers.",
+    "values": ["below_20k", "20k_to_30k", "30k_to_50k", "50k_to_100k", "above_100k", "dominant", "not_estimable", "confidential"],
+    "fields": {
+      "band": "enum",
+      "comparison_pair": "string (intervention vs comparator)",
+      "is_committee_preferred": "boolean",
+      "uncertainty_level": "low | moderate | high | very_high",
+      "direction": "incremental | decremental (default: incremental)"
+    }
+  },
+
+  "enums": {
+    "recommendation_type": ["recommended", "recommended_with_restrictions", "optimised", "not_recommended", "recommended_for_cdf"],
+    "appraisal_type": ["STA", "MTA", "HST", "fast_track"],
+    "therapeutic_area": ["oncology", "haematology", "cardiovascular", "neurology_psychiatry", "metabolic_endocrine", "renal", "respiratory", "musculoskeletal", "gastroenterology", "rheumatology", "immunology", "dental", "ophthalmology", "dermatology", "infectious_disease", "rare_disease", "other"],
+    "disease_setting": ["early", "locally_advanced", "metastatic", "chronic", "acute", "adjuvant", "neoadjuvant", "extended_adjuvant", "maintenance", "prevention_primary", "prevention_secondary", "relapsing_remitting", "relapsed_refractory", "recurrent", "other"],
+    "comparator_type": ["active_drug", "placebo", "best_supportive_care", "no_treatment", "same_drug_different_regimen", "standard_of_care", "device_comparison"],
+    "impact_on_icer": ["increases", "decreases", "uncertain_direction", "negligible"],
+    "model_type": ["markov", "partitioned_survival", "decision_tree", "semi_markov", "discrete_event_simulation", "cost_minimisation", "cost_comparison", "cost_analysis", "decision_tree_plus_markov", "patient_level_simulation", "mixture_cure", "other"],
+    "study_design": ["RCT", "single_arm", "case_series", "observational", "non_inferiority", "other"],
+    "route_of_administration": ["oral", "intravenous", "subcutaneous", "inhaled", "nasal", "topical", "implanted", "other"],
+    "treatment_duration_type": ["fixed_duration", "treat_to_progression", "continuous", "cyclical", "single_administration", "as_needed", "other"],
+    "line_of_therapy": ["first_line", "second_line", "third_line_plus", "adjuvant", "neoadjuvant", "extended_adjuvant", "maintenance", "any_line"],
+    "methods_guide_era": ["pre_2008", "2008", "2013", "2022"]
+  },
+
+  "do_not_extract": [
+    "Specific numerical values (ICERs, QALYs, costs, hazard ratios, p-values)",
+    "Committee member rosters and affiliations (except chair name)",
+    "Implementation logistics and NHS compliance timelines",
+    "Full adverse event profiles (only note if AEs were a key decision factor)",
+    "Patient testimony verbatim (capture sentiment via innovation/equality flags)",
+    "Detailed sensitivity analysis results",
+    "Dosage and pharmacokinetic details",
+    "Trial recruitment country-by-country breakdown"
+  ],
+
+  "design_notes": {
+    "terminology_normalisation": "Extract as-is from document. Post-processing normalises ERG/EAG/Assessment Group, appraisal/evaluation committee, etc.",
+    "multi_intervention_tas": "Some TAs appraise multiple drugs (e.g. TA178: 4 drugs). Each gets its own Intervention entity linked to the same TA.",
+    "multi_recommendation_tas": "Some TAs recommend differently for subgroups. Capture as restriction_details text on the recommendation.",
+    "confidential_data": "Set fields to null when redacted. Use discount_confidential flag where applicable.",
+    "scope_comments": "Deferred to v0.2. FAD extraction is the priority."
+  }
+}

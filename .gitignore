@@ -1,0 +1,30 @@
+# Internal notes
+.internal/
+
+# Data (downloaded/generated)
+data/
+nice.db
+nice.db-shm
+nice.db-wal
+
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+
+# Node
+node_modules/
+
+# Nuxt build
+.nuxt/
+.output/
+
+# Generated downloads (build with scripts/08)
+web/public/downloads/*.zip
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+.metadata_never_index

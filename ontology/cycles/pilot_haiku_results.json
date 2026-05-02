@@ -1,0 +1,645 @@
+[
+  {
+    "chunk_id": 17319,
+    "extraction": {
+      "ta_number": "TA310",
+      "doc_type": "FAD",
+      "page_range": "9-18",
+      "appraisal_metadata": {
+        "title": "Afatinib for treating epidermal growth factor receptor mutation-positive locally advanced or metastatic non-small-cell lung cancer",
+        "issue_date": null,
+        "recommendation_type": null,
+        "restriction_details": null,
+        "appraisal_type": null,
+        "committee_name": "Appraisal Committee",
+        "erg_or_eag_name": "Evidence Review Group (ERG)",
+        "line_of_therapy": "first-line",
+        "methods_guide_era": null
+      },
+      "interventions": [
+        {
+          "generic_name": "afatinib",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "tyrosine kinase inhibitor",
+          "mechanism_of_action": "irreversible ErbB family blocker",
+          "route_of_administration": "oral",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "until disease progression"
+        },
+        {
+          "generic_name": "erlotinib",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "tyrosine kinase inhibitor",
+          "mechanism_of_action": null,
+          "route_of_administration": "oral",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "until disease progression"
+        },
+        {
+          "generic_name": "gefitinib",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "tyrosine kinase inhibitor",
+          "mechanism_of_action": null,
+          "route_of_administration": "oral",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "until disease progression"
+        }
+      ],
+      "conditions": [
+        {
+          "condition_name": "EGFR mutation-positive locally advanced or metastatic non-small-cell lung cancer",
+          "therapeutic_area": "oncology",
+          "disease_setting": "locally_advanced",
+          "biomarker_defined_population": true,
+          "biomarker_name": "EGFR-activating mutations"
+        }
+      ],
+      "comparators": [
+        {
+          "comparator_name": "erlotinib",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        },
+        {
+          "comparator_name": "gefitinib",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        },
+        {
+          "comparator_name": "pemetrexed plus cisplatin",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        }
+      ],
+      "clinical_trials": [
+        {
+          "trial_name": "LUX-Lung 3",
+          "study_design": "RCT",
+          "phase": "phase III",
+          "blinding": "open_label",
+          "is_pivotal": true,
+          "primary_outcome": "progression-free survival",
+          "sample_size": null,
+          "crossover_occurred": true,
+          "crossover_adjusted": null,
+          "generalisability_concern": true
+        },
+        {
+          "trial_name": "LUX-Lung 6",
+          "study_design": "RCT",
+          "phase": "phase III",
+          "blinding": "open_label",
+          "is_pivotal": true,
+          "primary_outcome": "progression-free survival",
+          "sample_size": null,
+          "crossover_occurred": true,
+          "crossover_adjusted": null,
+          "generalisability_concern": true
+        }
+      ],
+      "economic_model": {
+        "model_type": "partitioned survival",
+        "model_source": "company",
+        "time_horizon": null,
+        "cycle_length": null,
+        "health_states": ["pre-progression", "post-progression", "death"]
+      },
+      "methodological_decisions": [
+        {
+          "decision_category": "indirect_comparison_method",
+          "description": "Mixed treatment comparison (MTC) validity and applicability to UK population",
+          "company_position": "MTC appropriate using combined trial data from LUX-Lung 1, 3, 6 and EURTAC with ITT population",
+          "erg_position": "MTC unreliable; patient populations not sufficiently similar; should use non-Asian subgroup data only",
+          "committee_preference": "Agreed with ERG concerns about population generalisability; concerns about application of hazard ratios to UK population",
+          "impact_on_icer": "very_uncertain"
+        },
+        {
+          "decision_category": "population_generalisability",
+          "description": "Applicability of predominantly Asian trial population (LUX-Lung 3) to UK NHS patients",
+          "company_position": "ITT population from LUX-Lung 3 is appropriate for cost-effectiveness analysis",
+          "erg_position": "Non-Asian subgroup data more appropriate for UK population; Asian and non-Asian populations showed different outcomes",
+          "committee_preference": "Agreed with ERG that ethnicity may impact treatment effectiveness; acknowledged limited non-Asian sample size",
+          "impact_on_icer": "very_uncertain"
+        },
+        {
+          "decision_category": "survival_extrapolation",
+          "description": "Parametric curve fitting for Kaplan-Meier data beyond trial period",
+          "company_position": "Weibull models provide appropriate parametric approximation of trial data",
+          "erg_position": "Weibull models lacked credibility; did not accurately reflect LUX-Lung 3 experience especially for PFS",
+          "committee_preference": null,
+          "impact_on_icer": "uncertain_direction"
+        },
+        {
+          "decision_category": "treatment_sequencing",
+          "description": "Choice of second-line treatment in economic model",
+          "company_position": "Docetaxel or pemetrexed as second-line; scenario analysis with pemetrexed had minimal impact",
+          "erg_position": null,
+          "committee_preference": null,
+          "impact_on_icer": "minimal"
+        },
+        {
+          "decision_category": "utility_source",
+          "description": "Source of health-state utility values",
+          "company_position": "0.78 for progression-free (from LUX-Lung 3); literature values for progressive disease (0.73 and 0.46)",
+          "erg_position": null,
+          "committee_preference": null,
+          "impact_on_icer": null
+        }
+      ],
+      "evidence_gaps": [
+        {
+          "gap_type": "no_overall_survival_benefit",
+          "description": "No statistically significant overall survival benefit demonstrated in LUX-Lung 3 and 6; data immature and confounded by treatment crossover"
+        },
+        {
+          "gap_type": "limited_non_asian_data",
+          "description": "Small non-Asian subgroup in LUX-Lung 3 (approximately one-third), trial underpowered to detect ethnicity-based differences"
+        }
+      ],
+      "commercial_arrangement": {
+        "arrangement_type": "patient_access_scheme",
+        "discount_confidential": true,
+        "critical_for_recommendation": true
+      },
+      "icer_band": {
+        "band": "20k_to_30k",
+        "comparison_pair": "afatinib vs erlotinib",
+        "is_committee_preferred": null,
+        "uncertainty_level": "very_high"
+      },
+      "special_considerations": {
+        "end_of_life_considered": false,
+        "end_of_life_met": null,
+        "severity_modifier_applied": null,
+        "cancer_drugs_fund_considered": false,
+        "cancer_drugs_fund_eligible": null,
+        "innovation_acknowledged": true,
+        "equality_issues_raised": false
+      },
+      "cross_references": [
+        {
+          "referenced_ta": "TA192",
+          "relationship": "same_drug_different_indication",
+          "context": "Gefitinib for first-line treatment of locally advanced or metastatic non-small-cell lung cancer"
+        },
+        {
+          "referenced_ta": "TA258",
+          "relationship": "same_drug_different_indication",
+          "context": "Erlotinib for first-line treatment of locally advanced or metastatic EGFR-TK mutation positive non-small-cell lung cancer"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": 36431,
+    "extraction": {
+      "ta_number": "TA75",
+      "doc_type": "FAD",
+      "page_range": "1-10",
+      "appraisal_metadata": {
+        "title": "Interferon alfa (pegylated and non-pegylated) and ribavirin for the treatment of chronic hepatitis C",
+        "issue_date": null,
+        "recommendation_type": "recommended",
+        "restriction_details": "Treatment duration and genotype-based dosing specified; genotype 2/3: 24 weeks; genotype 1,4,5,6: 12 weeks initial, then assess viral load; only continue if viral load reduced to less than 1%",
+        "appraisal_type": "STA",
+        "committee_name": null,
+        "erg_or_eag_name": null,
+        "line_of_therapy": "first-line",
+        "methods_guide_era": null
+      },
+      "interventions": [
+        {
+          "generic_name": "peginterferon alfa",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "antiviral",
+          "mechanism_of_action": "immunomodulator",
+          "route_of_administration": "subcutaneous injection",
+          "is_combination_regimen": true,
+          "combination_components": ["peginterferon alfa-2a", "peginterferon alfa-2b", "ribavirin"],
+          "treatment_duration_type": "24-48 weeks genotype-dependent"
+        },
+        {
+          "generic_name": "interferon alfa",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "antiviral",
+          "mechanism_of_action": "immunomodulator",
+          "route_of_administration": "subcutaneous injection",
+          "is_combination_regimen": true,
+          "combination_components": ["interferon alfa", "ribavirin"],
+          "treatment_duration_type": "24-48 weeks genotype-dependent"
+        },
+        {
+          "generic_name": "ribavirin",
+          "brand_name": null,
+          "manufacturer": null,
+          "drug_class": "nucleoside analogue",
+          "mechanism_of_action": "broad spectrum antiviral",
+          "route_of_administration": "oral",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "24-48 weeks genotype-dependent"
+        }
+      ],
+      "conditions": [
+        {
+          "condition_name": "Moderate to severe chronic hepatitis C",
+          "therapeutic_area": "hepatology",
+          "disease_setting": "chronic",
+          "biomarker_defined_population": true,
+          "biomarker_name": "HCV genotype; significant liver fibrosis/necrotic inflammation"
+        }
+      ],
+      "comparators": [
+        {
+          "comparator_name": "interferon alfa monotherapy",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": false
+        }
+      ],
+      "clinical_trials": null,
+      "economic_model": null,
+      "methodological_decisions": [],
+      "evidence_gaps": [],
+      "commercial_arrangement": null,
+      "icer_band": null,
+      "special_considerations": {
+        "end_of_life_considered": false,
+        "end_of_life_met": null,
+        "severity_modifier_applied": null,
+        "cancer_drugs_fund_considered": false,
+        "cancer_drugs_fund_eligible": null,
+        "innovation_acknowledged": false,
+        "equality_issues_raised": false
+      },
+      "cross_references": []
+    }
+  },
+  {
+    "chunk_id": 23518,
+    "extraction": {
+      "ta_number": "TA488",
+      "doc_type": "FAD",
+      "page_range": "1-10",
+      "appraisal_metadata": {
+        "title": "Regorafenib for previously treated unresectable or metastatic gastrointestinal stromal tumours",
+        "issue_date": "October 2017",
+        "recommendation_type": "recommended",
+        "restriction_details": "Only if ECOG performance status 0-1 and patient access scheme discount provided",
+        "appraisal_type": "STA",
+        "committee_name": "Appraisal Committee",
+        "erg_or_eag_name": "Evidence Review Group (ERG)",
+        "line_of_therapy": "third-line",
+        "methods_guide_era": null
+      },
+      "interventions": [
+        {
+          "generic_name": "regorafenib",
+          "brand_name": "Stivarga",
+          "manufacturer": "Bayer",
+          "drug_class": "multitargeted tyrosine kinase inhibitor",
+          "mechanism_of_action": null,
+          "route_of_administration": "oral",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "160mg daily 3 weeks on, 1 week off"
+        }
+      ],
+      "conditions": [
+        {
+          "condition_name": "Unresectable or metastatic gastrointestinal stromal tumours",
+          "therapeutic_area": "oncology",
+          "disease_setting": "metastatic",
+          "biomarker_defined_population": false,
+          "biomarker_name": null
+        }
+      ],
+      "comparators": [
+        {
+          "comparator_name": "best supportive care",
+          "comparator_type": "supportive_care",
+          "is_established_practice": true,
+          "committee_preferred": null
+        }
+      ],
+      "clinical_trials": [
+        {
+          "trial_name": "GRID",
+          "study_design": "RCT",
+          "phase": "phase III",
+          "blinding": "double-blind",
+          "is_pivotal": true,
+          "primary_outcome": "progression-free survival",
+          "sample_size": 199,
+          "crossover_occurred": true,
+          "crossover_adjusted": true,
+          "generalisability_concern": false
+        }
+      ],
+      "economic_model": {
+        "model_type": "partitioned survival",
+        "model_source": "company",
+        "time_horizon": null,
+        "cycle_length": null,
+        "health_states": ["progression-free", "progressed", "death"]
+      },
+      "methodological_decisions": [
+        {
+          "decision_category": "crossover_adjustment",
+          "description": "Statistical correction for high level of crossover (88%) from placebo to open-label regorafenib",
+          "company_position": "IPE and RPSFT crossover correction methods appropriate",
+          "erg_position": "Both IPE and RPSFT methods appropriate; similar estimates produced",
+          "committee_preference": "Both IPE and RPSFT adjustments acceptable; RPSFT had minimal impact on cost-effectiveness",
+          "impact_on_icer": "minimal"
+        },
+        {
+          "decision_category": "survival_extrapolation",
+          "description": "Choice of parametric distribution for extrapolating overall survival beyond trial data",
+          "company_position": "Log-logistic extrapolation provides best fit to trial data",
+          "erg_position": "Evidence for longer-tailed and shorter-tailed distributions evenly balanced",
+          "committee_preference": "Weibull extrapolation more appropriate; shorter-tailed distribution more clinically plausible for late-stage GIST",
+          "impact_on_icer": "very_large"
+        },
+        {
+          "decision_category": "baseline_risk",
+          "description": "Recensoring to address informative censoring from treatment switching",
+          "company_position": "IPE adjustment with recensoring appropriate per DSU guidance",
+          "erg_position": "Recensoring may lead to biased estimates; arguments for and against evenly balanced",
+          "committee_preference": "Both analyses with and without recensoring should be considered; recensoring has large impact",
+          "impact_on_icer": "very_large"
+        }
+      ],
+      "evidence_gaps": [
+        {
+          "gap_type": "overall_survival_uncertainty",
+          "description": "Uncertainty about magnitude of overall survival benefit; crossover-corrected estimates not statistically significant"
+        }
+      ],
+      "commercial_arrangement": {
+        "arrangement_type": "simple_discount_pas",
+        "discount_confidential": true,
+        "critical_for_recommendation": true
+      },
+      "icer_band": {
+        "band": "30k_to_50k",
+        "comparison_pair": "regorafenib vs best supportive care",
+        "is_committee_preferred": true,
+        "uncertainty_level": "high"
+      },
+      "special_considerations": {
+        "end_of_life_considered": true,
+        "end_of_life_met": true,
+        "severity_modifier_applied": true,
+        "cancer_drugs_fund_considered": true,
+        "cancer_drugs_fund_eligible": true,
+        "innovation_acknowledged": true,
+        "equality_issues_raised": false
+      },
+      "cross_references": []
+    }
+  },
+  {
+    "chunk_id": 1960,
+    "extraction": {
+      "ta_number": "TA103",
+      "doc_type": "FAD",
+      "page_range": "1-10",
+      "appraisal_metadata": {
+        "title": "Efalizumab and etanercept for the treatment of adults with psoriasis",
+        "issue_date": null,
+        "recommendation_type": "recommended",
+        "restriction_details": "Etanercept: severe psoriasis (PASI>=10 AND DLQI>10), failed standard systemic therapy; discontinue at 12 weeks if inadequate response. Efalizumab: only if etanercept failed or intolerant",
+        "appraisal_type": "STA",
+        "committee_name": "Appraisal Committee",
+        "erg_or_eag_name": "Assessment Group",
+        "line_of_therapy": "second/third-line",
+        "methods_guide_era": null
+      },
+      "interventions": [
+        {
+          "generic_name": "etanercept",
+          "brand_name": "Enbrel",
+          "manufacturer": "Wyeth Pharmaceuticals",
+          "drug_class": "TNF receptor inhibitor",
+          "mechanism_of_action": "TNF antagonist",
+          "route_of_administration": "subcutaneous injection",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "up to 24 weeks; review at 12 weeks"
+        },
+        {
+          "generic_name": "efalizumab",
+          "brand_name": "Raptiva",
+          "manufacturer": "Serono Pharmaceuticals Ltd",
+          "drug_class": "T-cell modulator",
+          "mechanism_of_action": "T-cell activation/migration blocker",
+          "route_of_administration": "subcutaneous injection",
+          "is_combination_regimen": false,
+          "combination_components": null,
+          "treatment_duration_type": "12 weeks; only continue if response"
+        }
+      ],
+      "conditions": [
+        {
+          "condition_name": "Moderate to severe chronic plaque psoriasis",
+          "therapeutic_area": "dermatology",
+          "disease_setting": "chronic",
+          "biomarker_defined_population": false,
+          "biomarker_name": null
+        }
+      ],
+      "comparators": [
+        {
+          "comparator_name": "ciclosporin",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        },
+        {
+          "comparator_name": "methotrexate",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        },
+        {
+          "comparator_name": "PUVA",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": null
+        }
+      ],
+      "clinical_trials": [
+        {
+          "trial_name": "IMP24011",
+          "study_design": "RCT",
+          "phase": null,
+          "blinding": "placebo-controlled",
+          "is_pivotal": true,
+          "primary_outcome": "PASI response",
+          "sample_size": 793,
+          "crossover_occurred": false,
+          "crossover_adjusted": null,
+          "generalisability_concern": false
+        }
+      ],
+      "economic_model": null,
+      "methodological_decisions": [],
+      "evidence_gaps": [
+        {
+          "gap_type": "limited_long_term_safety",
+          "description": "Efalizumab licensed late 2004; limited long-term adverse event data beyond 12 weeks"
+        }
+      ],
+      "commercial_arrangement": null,
+      "icer_band": null,
+      "special_considerations": {
+        "end_of_life_considered": false,
+        "end_of_life_met": null,
+        "severity_modifier_applied": false,
+        "cancer_drugs_fund_considered": false,
+        "cancer_drugs_fund_eligible": null,
+        "innovation_acknowledged": false,
+        "equality_issues_raised": false
+      },
+      "cross_references": []
+    }
+  },
+  {
+    "chunk_id": 16731,
+    "extraction": {
+      "ta_number": "TA236",
+      "doc_type": "FAD",
+      "page_range": "1-10",
+      "appraisal_metadata": {
+        "title": "Ticagrelor for the treatment of acute coronary syndromes",
+        "issue_date": "September 2011",
+        "recommendation_type": "recommended",
+        "restriction_details": "For up to 12 months in combination with low-dose aspirin in adults with ACS (STEMI, NSTEMI, or unstable angina with specific risk characteristics)",
+        "appraisal_type": "STA",
+        "committee_name": "Appraisal Committee",
+        "erg_or_eag_name": "Evidence Review Group (ERG)",
+        "line_of_therapy": "first-line",
+        "methods_guide_era": null
+      },
+      "interventions": [
+        {
+          "generic_name": "ticagrelor",
+          "brand_name": "Brilique",
+          "manufacturer": "AstraZeneca",
+          "drug_class": "P2Y12 adenosine diphosphate receptor antagonist",
+          "mechanism_of_action": "platelet aggregation inhibitor",
+          "route_of_administration": "oral",
+          "is_combination_regimen": true,
+          "combination_components": ["ticagrelor", "aspirin"],
+          "treatment_duration_type": "up to 12 months"
+        }
+      ],
+      "conditions": [
+        {
+          "condition_name": "Acute coronary syndromes",
+          "therapeutic_area": "cardiology",
+          "disease_setting": "acute",
+          "biomarker_defined_population": false,
+          "biomarker_name": null
+        }
+      ],
+      "comparators": [
+        {
+          "comparator_name": "clopidogrel plus aspirin",
+          "comparator_type": "active_drug",
+          "is_established_practice": true,
+          "committee_preferred": false
+        },
+        {
+          "comparator_name": "prasugrel plus aspirin",
+          "comparator_type": "active_drug",
+          "is_established_practice": false,
+          "committee_preferred": null
+        }
+      ],
+      "clinical_trials": [
+        {
+          "trial_name": "PLATO",
+          "study_design": "RCT",
+          "phase": "phase III",
+          "blinding": "double-blind double-dummy",
+          "is_pivotal": true,
+          "primary_outcome": "time to first event (composite: myocardial infarction, stroke, or death from vascular causes)",
+          "sample_size": 18624,
+          "crossover_occurred": false,
+          "crossover_adjusted": null,
+          "generalisability_concern": false
+        }
+      ],
+      "economic_model": {
+        "model_type": "decision tree plus Markov",
+        "model_source": "company",
+        "time_horizon": "40 years",
+        "cycle_length": null,
+        "health_states": ["non-fatal MI", "post-MI", "non-fatal stroke", "post-stroke", "death", "no further event"]
+      },
+      "methodological_decisions": [
+        {
+          "decision_category": "treatment_effect_duration",
+          "description": "Assumption about how long ticagrelor benefit persists beyond trial period",
+          "company_position": "Beneficial effect only assumed for first 12 months; after 1 year transition probabilities identical between treatments",
+          "erg_position": null,
+          "committee_preference": null,
+          "impact_on_icer": null
+        }
+      ],
+      "evidence_gaps": [
+        {
+          "gap_type": "no_direct_comparison",
+          "description": "No head-to-head trial comparing ticagrelor with prasugrel; indirect comparison noted as unreliable"
+        }
+      ],
+      "commercial_arrangement": null,
+      "icer_band": {
+        "band": "dominant",
+        "comparison_pair": "ticagrelor vs clopidogrel",
+        "is_committee_preferred": true,
+        "uncertainty_level": "low"
+      },
+      "special_considerations": {
+        "end_of_life_considered": false,
+        "end_of_life_met": null,
+        "severity_modifier_applied": null,
+        "cancer_drugs_fund_considered": false,
+        "cancer_drugs_fund_eligible": null,
+        "innovation_acknowledged": false,
+        "equality_issues_raised": false
+      },
+      "cross_references": []
+    }
+  },
+  {
+    "chunk_id": 16736,
+    "extraction": {
+      "no_relevant_content": true
+    }
+  },
+  {
+    "chunk_id": 1964,
+    "extraction": {
+      "no_relevant_content": true
+    }
+  },
+  {
+    "chunk_id": 23605,
+    "extraction": {
+      "no_relevant_content": true
+    }
+  }
+]
