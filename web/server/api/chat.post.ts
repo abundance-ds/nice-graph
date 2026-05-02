@@ -63,11 +63,27 @@ const TOOLS: Anthropic.Tool[] = [
   },
 ];
 
+const rateLimiter = {
+  hits: [] as number[],
+  check() {
+    const now = Date.now();
+    this.hits = this.hits.filter((t) => now - t < 86_400_000);
+    const lastHour = this.hits.filter((t) => now - t < 3_600_000).length;
+    if (lastHour >= 100) return "Rate limit exceeded (100/hour). Try again later.";
+    if (this.hits.length >= 2000) return "Daily limit reached (2000/day). Try again tomorrow.";
+    this.hits.push(now);
+    return null;
+  },
+};
+
 export default defineEventHandler(async (event) => {
+  const limited = rateLimiter.check();
+  if (limited) throw createError({ statusCode: 429, message: limited });
+
   const config = useRuntimeConfig();
   const body = await readBody(event);
   const question = body?.question;
-  const history = body?.history || [];
+  const history = (body?.history || []).slice(-20);
   if (!question)
     throw createError({ statusCode: 400, message: "Missing question" });
 
