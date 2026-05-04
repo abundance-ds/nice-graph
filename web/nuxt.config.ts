@@ -7,6 +7,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     databasePath: "../nice.db",
     anthropicApiKey: "",
+    chatToken: "",
   },
 
   app: {

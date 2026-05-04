@@ -77,15 +77,23 @@ const rateLimiter = {
 };
 
 export default defineEventHandler(async (event) => {
-  const limited = rateLimiter.check();
-  if (limited) throw createError({ statusCode: 429, message: limited });
-
   const config = useRuntimeConfig();
   const body = await readBody(event);
   const question = body?.question;
   const history = (body?.history || []).slice(-20);
+  const token = body?.token;
   if (!question)
     throw createError({ statusCode: 400, message: "Missing question" });
+
+  const isAuthed = !!(config.chatToken && token === config.chatToken);
+
+  if (!isAuthed) {
+    const limited = rateLimiter.check();
+    if (limited) throw createError({ statusCode: 429, message: limited });
+  }
+
+  const model = isAuthed ? "claude-sonnet-4-6" : "claude-haiku-4-5-20251001";
+  const maxToolTurns = 20;
 
   const client = new Anthropic({ apiKey: config.anthropicApiKey });
   const db = useDb();
@@ -112,9 +120,9 @@ export default defineEventHandler(async (event) => {
   ];
 
   try {
-    for (let turn = 0; turn < 5; turn++) {
+    for (let turn = 0; turn < maxToolTurns; turn++) {
       const stream = client.messages.stream({
-        model: "claude-haiku-4-5-20251001",
+        model,
         max_tokens: 4096,
         system: SYSTEM_PROMPT,
         tools: TOOLS,

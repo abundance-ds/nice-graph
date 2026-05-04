@@ -8,6 +8,10 @@ const question = ref((route.query.q as string) || "");
 const loading = ref(false);
 const error = ref("");
 const bottomRef = ref<HTMLElement | null>(null);
+const userScrolledUp = ref(false);
+
+const token = computed(() => (route.query.token as string) || "");
+const isAuthed = computed(() => !!token.value);
 
 interface Turn {
   role: "user" | "assistant";
@@ -22,8 +26,8 @@ const conversation = ref<Turn[]>([]);
 const assistantTurns = computed(
   () => conversation.value.filter((t) => t.role === "assistant").length
 );
-const maxTurns = 10;
-const limitReached = computed(() => assistantTurns.value >= maxTurns);
+const maxTurns = 5;
+const limitReached = computed(() => !isAuthed.value && assistantTurns.value >= maxTurns);
 
 const apiHistory = computed(() => {
   const msgs: { role: string; content: string }[] = [];
@@ -45,7 +49,7 @@ async function ask() {
   error.value = "";
 
   if (conversation.value.length === 0) {
-    router.replace({ query: { q } });
+    router.replace({ query: { q, ...(token.value ? { token: token.value } : {}) } });
   }
 
   conversation.value.push({ role: "user", question: q });
@@ -61,11 +65,12 @@ async function ask() {
   scrollToBottom();
 
   try {
+    userScrolledUp.value = false;
     const historyToSend = apiHistory.value.slice(0, -1);
     const response = await fetch("/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question: q, history: historyToSend }),
+      body: JSON.stringify({ question: q, history: historyToSend, token: token.value || undefined }),
     });
 
     if (!response.ok) {
@@ -134,23 +139,27 @@ function newConversation() {
   conversation.value = [];
   question.value = "";
   error.value = "";
-  router.replace({ query: {} });
-}
-
-function isNearBottom(): boolean {
-  const threshold = 300;
-  const scrollTop = window.scrollY || document.documentElement.scrollTop;
-  const windowHeight = window.innerHeight;
-  const docHeight = document.documentElement.scrollHeight;
-  return docHeight - scrollTop - windowHeight < threshold;
+  router.replace({ query: token.value ? { token: token.value } : {} });
 }
 
 function scrollToBottom() {
+  if (userScrolledUp.value) return;
   nextTick(() => {
-    if (isNearBottom()) {
-      bottomRef.value?.scrollIntoView({ behavior: "smooth" });
-    }
+    bottomRef.value?.scrollIntoView({ behavior: "smooth" });
   });
+}
+
+function onScroll() {
+  if (!loading.value) return;
+  const scrollTop = window.scrollY || document.documentElement.scrollTop;
+  const windowHeight = window.innerHeight;
+  const docHeight = document.documentElement.scrollHeight;
+  const distFromBottom = docHeight - scrollTop - windowHeight;
+  if (distFromBottom > 400) {
+    userScrolledUp.value = true;
+  } else if (distFromBottom < 100) {
+    userScrolledUp.value = false;
+  }
 }
 
 function renderMarkdown(text: string): string {
@@ -172,10 +181,15 @@ function formatRows(rows: any[]): string {
 }
 
 onMounted(() => {
+  window.addEventListener("scroll", onScroll, { passive: true });
   if (route.query.q) {
     question.value = route.query.q as string;
     ask();
   }
+});
+
+onUnmounted(() => {
+  window.removeEventListener("scroll", onScroll);
 });
 </script>
 
@@ -187,11 +201,14 @@ onMounted(() => {
     <!-- Header (only before conversation starts) -->
     <div v-if="!conversation.length" class="py-16 px-6">
       <div class="max-w-3xl mx-auto">
-        <p
-          class="text-xs font-semibold text-cadet-500 uppercase tracking-[0.15em] mb-4"
-        >
-          Ask
-        </p>
+        <div class="flex items-center gap-3 mb-4">
+          <p
+            class="text-xs font-semibold text-cadet-500 uppercase tracking-[0.15em]"
+          >
+            Ask
+          </p>
+          <span v-if="isAuthed" class="text-[10px] font-semibold uppercase tracking-[0.12em] text-stone-400 border border-stone-200 rounded px-1.5 py-0.5">Pro</span>
+        </div>
         <h1
           class="text-2xl md:text-3xl font-serif font-semibold leading-tight tracking-tight text-stone-900"
         >
@@ -208,11 +225,14 @@ onMounted(() => {
     <div v-if="conversation.length" class="flex-1 px-6 pt-6 pb-36">
       <div class="max-w-3xl mx-auto">
         <div class="flex items-center justify-between mb-6">
-          <p
-            class="text-xs font-semibold text-cadet-500 uppercase tracking-[0.15em]"
-          >
-            Ask
-          </p>
+          <div class="flex items-center gap-3">
+            <p
+              class="text-xs font-semibold text-cadet-500 uppercase tracking-[0.15em]"
+            >
+              Ask
+            </p>
+            <span v-if="isAuthed" class="text-[10px] font-semibold uppercase tracking-[0.12em] text-stone-400 border border-stone-200 rounded px-1.5 py-0.5">Pro</span>
+          </div>
           <button
             @click="newConversation"
             class="text-xs text-stone-400 hover:text-stone-600 transition-colors"
