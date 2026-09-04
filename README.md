@@ -4,11 +4,11 @@ Knowledge graph and full-text corpus of [NICE Technology Appraisals](https://www
 
 826 TAs · 3,307 documents · 555 with structured entity extraction.
 
-**[nice.shoulde.rs](https://nice.shoulde.rs)**
+**[nice.abundanceds.com](https://nice.abundanceds.com)**
 
 ## AI / API access
 
-Point your agent at `https://nice.shoulde.rs/llms.txt` for a machine-readable overview and API guide.
+Point your agent at `https://nice.abundanceds.com/llms.txt` for a machine-readable overview and API guide.
 
 | Endpoint | Description |
 |----------|-------------|

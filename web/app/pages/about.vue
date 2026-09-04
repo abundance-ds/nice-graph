@@ -106,7 +106,7 @@
           bands, with a 3.5% &ldquo;other&rdquo; rate for decision categories.
           See
           <a
-            href="https://github.com/shoulders-ai/nice-graph/blob/main/ontology/methods.md"
+            href="https://github.com/abundance-ds/nice-graph/blob/main/ontology/methods.md"
             >ontology/methods.md</a
           >.
         </p>
@@ -173,10 +173,10 @@
 
         <h2>Source</h2>
         <p>
-          <a href="https://github.com/shoulders-ai/nice-graph">GitHub</a>
+          <a href="https://github.com/abundance-ds/nice-graph">GitHub</a>
           &middot; Data from
           <a href="https://www.nice.org.uk">NICE</a> &middot; Built by
-          <a href="https://shoulde.rs">Shoulders</a>
+          <a href="https://abundanceds.com">Abundance Decision Systems</a>
         </p>
       </article>
     </div>

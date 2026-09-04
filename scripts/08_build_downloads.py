@@ -80,7 +80,7 @@ ta101/
 
 ## Website
 
-<https://nice.shoulde.rs>
+<https://nice.abundanceds.com>
 
 ## License
 
@@ -94,7 +94,7 @@ def build_llms_txt(ta_dirs: list[Path]) -> str:
         "# NICE Technology Appraisals — Plain Text Corpus",
         "",
         "> Structured plain-text extractions from NICE Technology Appraisal documents.",
-        "> Website: https://nice.shoulde.rs",
+        "> Website: https://nice.abundanceds.com",
         "",
     ]
     for ta_dir in ta_dirs:

@@ -14,7 +14,7 @@ export default defineEventHandler((event) => {
   ).n;
 
   const text = `# NICE Technology Appraisals
-# https://nice.shoulde.rs
+# https://nice.abundanceds.com
 
 ${taCount} UK health technology assessments published by NICE (National Institute for Health and Care Excellence). ${docCount.toLocaleString()} source documents available as plain-text markdown. ${graphCount} appraisals have structured entity extraction covering drugs, conditions, methodological decisions, ICER bands, comparators, clinical trials, and economic models.
 
@@ -64,7 +64,7 @@ Tables:
 
 ## Source
 
-GitHub: https://github.com/shoulders-ai/nice-graph
+GitHub: https://github.com/abundance-ds/nice-graph
 Data: https://www.nice.org.uk
 `;
 

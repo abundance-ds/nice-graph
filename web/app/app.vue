@@ -32,7 +32,7 @@
           About
         </NuxtLink>
         <a
-          href="https://github.com/shoulders-ai/nice-graph"
+          href="https://github.com/abundance-ds/nice-graph"
           target="_blank"
           rel="noopener"
           class="text-stone-300 hover:text-stone-900 transition-colors"
