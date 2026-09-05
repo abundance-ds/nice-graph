@@ -1,8 +1,9 @@
 # Internal notes
 .internal/
 
-# Data (downloaded/generated)
-data/
+# Data: source PDFs are large and re-downloadable (scripts/), so ignored.
+# The extracted markdown alongside them is committed.
+data/**/*.pdf
 nice.db
 nice.db-shm
 nice.db-wal

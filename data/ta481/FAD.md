@@ -1,0 +1,1795 @@
+<!-- page 1 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+# **NATIONAL INSTITUTE FOR HEALTH AND CARE EXCELLENCE** 
+
+## **Final appraisal determination** 
+
+# **Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85)** 
+
+## **1 Recommendations** 
+
+This guidance makes recommendations on the use of basiliximab, rabbit antihuman thymocyte immunoglobulin, tacrolimus (immediate-release and prolonged release), mycophenolate mofetil, mycophenolate sodium, sirolimus, everolimus and belatacept after kidney transplant in adults. It does not make recommendations on the use in the NHS of the standard triple therapy regimen of ciclosporin, azathioprine and a corticosteroid after kidney transplant in adults. 
+
+Under an exceptional directive from the Department of Health, the Appraisal Committee was allowed to make recommendations about the use of drugs outside the terms of their marketing authorisations if there was compelling evidence of their safety and effectiveness. 
+
+1.1 Basiliximab, when used as part of an immunosuppressive regimen that includes a calcineurin inhibitor, is recommended as an option to prevent organ rejection in adults having a kidney transplant.[1,2] 
+
+> 1 December 2015: the use of basiliximab (in combination with tacrolimus) and mycophenolate mofetil (in combination with tacrolimus) is outside the terms of the marketing authorisations for basiliximab and for mycophenolate mofetil. If these combinations are prescribed, the prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. For further information, see the General Medical Council’s guidance on Good practice in prescribing and managing medicines and devices. 2 The statutory funding requirement does not apply to drugs that are used outside the terms of their marketing authorisation. 
+
+> Page 1 of 73 
+
+> Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+National Institute for Health and Care Excellence 
+
+
+
+
+<!-- page 2 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 1.2 Immediate-release tacrolimus, when used as part of an immunosuppressive regimen, is recommended within its marketing authorisation as an option to prevent organ rejection in adults having a kidney transplant. Treatment should normally be started with the least expensive product.[3] However, treatment can be started with an alternative dosage form if the person is not able to swallow capsules as a result of a disability. Tacrolimus granules for oral suspension (Modigraf) should be used only if the company provides it at the same price or lower than that agreed with the Commercial Medicines Unit. 
+
+- 1.3 Mycophenolate mofetil, when used as part of an immunosuppressive regimen, is recommended as an option to prevent organ rejection in adults having a kidney transplant. Treatment should normally be started with the least expensive product. However, treatment can be started with an alternative dosage form if the person is not able to swallow capsules as a result of a disability.[1,2] 
+
+- 1.4 Rabbit anti-human thymocyte immunoglobulin, prolonged-release tacrolimus, mycophenolate sodium, sirolimus, everolimus and belatacept are not recommended to prevent organ rejection in adults having a kidney transplant. 
+
+The Appraisal Committee was unable to make recommendations on these technologies to prevent organ rejection in adults having a kidney transplant who have: 
+
+- biopsy-proven nephrotoxity associated with calcineurin inhibitors or 
+
+> 3 The Medicines and Healthcare products Regulatory Agency (MHRA) has advised that to maintain therapeutic response when a patient is stabilised on a particular brand, oral tacrolimus products should be prescribed and dispensed by brand name only. If a prescriber considers that switching to a different brand of oral tacrolimus would be of benefit, the change requires careful supervision and therapeutic monitoring by an appropriate specialist. See the MHRA’s advice on oral tacrolimus products. National Institute for Health and Care Excellence Page 2 of 73 
+
+> Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 3 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- biopsy-proven thrombotic microangiopathy. 
+
+1.5 Adults whose treatment with rabbit anti-human thymocyte immunoglobulin, prolonged-release tacrolimus, mycophenolate sodium, sirolimus, everolimus or belatacept was started within the NHS before this guidance was published, should be able to continue treatment until they and their NHS clinician consider it appropriate to stop. 
+
+## **2 Clinical need and practice** 
+
+2.1 Kidney transplant is used to treat established kidney failure, which is severe and irreversible impairment of kidney function. After a kidney transplant, immunosuppressive therapy is used to reduce the risk of rejection of the transplanted kidney (or ‘graft’) and prolong its survival. 
+
+2.2 Between April 2013 and March 2014, 2931 kidney transplants were done in adults in the UK; 2506 of these were in England. At the end of 2013, approximately 29,600 people in the UK were having immunosuppressive therapy after kidney transplant, including 24,800 people in England. 
+
+2.3 Immunosuppressive therapy aims to prevent acute rejection and optimise the function of the transplanted kidney, while minimising the adverse effects of immunosuppression (such as increased risk of infection, cancer, diabetes and cardiovascular disease). Immunosuppressive therapy can be categorised as induction therapy and maintenance therapy. Induction therapy is an intensive immunosuppression regimen that is used for up to 2 weeks around the time of transplant and may include polyclonal or monoclonal antibodies. Maintenance therapy starts immediately after transplant and continues for life. 
+
+
+National Institute for Health and Care Excellence Page 3 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 4 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 2.4 NICE’s technology appraisal guidance on immunosuppressive therapy for kidney transplantation in adults was published in 2004. It recommended basiliximab, daclizumab, tacrolimus, mycophenolate mofetil and sirolimus, in certain circumstances, as options for immunosuppressive therapy for kidney transplant in adults. Since that appraisal, the marketing authorisation for daclizumab has been withdrawn, new technologies (rabbit antihuman thymocyte immunoglobulin, mycophenolate sodium, belatacept, a prolonged-release formulation of tacrolimus, and everolimus) have received marketing authorisations, and some of the technologies have become available generically. 
+
+## **3 The technologies** 
+
+## _**Induction therapy**_ 
+
+## **Basiliximab** 
+
+- 3.1 Basiliximab (Simulect, Novartis Pharmaceuticals) is a monoclonal antibody that acts as an interleukin-2 receptor antagonist. It has a marketing authorisation in the UK for the prophylaxis of acute organ rejection in adults having a kidney transplant. The summary of product characteristics states that basiliximab is to be used concomitantly with ciclosporin for microemulsion- and corticosteroid-based immunosuppression, in patients with panel reactive antibodies less than 80%, or in a triple maintenance immunosuppressive regimen containing ciclosporin for microemulsion, corticosteroids and either azathioprine or mycophenolate mofetil. 
+
+- 3.2 Basiliximab is administered intravenously, in 2 doses of 20 mg each (one 2 hours before the surgery and the second 4 days after). 
+
+- 3.3 The summary of product characteristics states that the following adverse reactions occur in at least 20% of people having 
+
+National Institute for Health and Care Excellence Page 2 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 5 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+basiliximab: constipation, pain, nausea, peripheral oedema (swelling of the feet and ankles), hypertension, anaemia, headache, hyperkalaemia (high potassium in the blood), high cholesterol, postoperative wound complications, weight gain, increase in blood creatinine, hypophosphataemia (a deficiency of phosphates in the blood), diarrhoea and urinary tract and upper respiratory tract infections. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.4 Basiliximab is available in 10 mg and 20 mg vials, at a price of £758.69 and £842.38 respectively (excluding VAT; British national formulary [BNF] online [accessed June 2015]), equating to £1685 per course of treatment (2 doses of 20 mg). 
+
+## **Rabbit anti-human thymocyte immunoglobulin** 
+
+- 3.5 Rabbit anti-human thymocyte immunoglobulin (r-ATG; Thymoglobuline, Sanofi) is made by injecting human thymus cells into rabbits. The drug contains immunoglobulins (antibodies) that attach to and destroy some of the cells of the immune system. It has a marketing authorisation in the UK for the prevention of graft rejection in kidney transplant. The summary of product characteristics states it is usually used in combination with other immunosuppressive drugs. 
+
+- 3.6 r-ATG is administered intravenously, at a dose of 1–1.5 mg/kg/day for 3–9 days after a kidney transplant (a cumulative dose of 3– 13.5 mg/kg). 
+
+- 3.7 The summary of product characteristics states that the following adverse reactions occur in at least 10% of people having r-ATG: fever; infection; and a reduced number of lymphocytes, neutrophils or platelets in the blood (that is, lymphopenia, neutropenia or thrombocytopenia). For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+National Institute for Health and Care Excellence Page 3 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 6 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 3.8 r-ATG is available in 25 mg vials, at a price of £158.77 (excluding VAT; BNF online [accessed June 2015]), equating to £1428.93 to £7144.65 per course for a 70 kg person. 
+
+## _**Maintenance therapy**_ 
+
+- 3.9 Some drugs in this appraisal contain the same active ingredient but in different formulations. Tacrolimus is a calcineurin inhibitor and is available in an immediate-release formulation and a prolongedrelease formulation. Mycophenolic acid is an antiproliferative agent. It is available as a prodrug called mycophenolate mofetil and a sodium salt called mycophenolate sodium. 
+
+## **Immediate-release tacrolimus** 
+
+- 3.10 Brands of immediate-release tacrolimus include Adoport (Sandoz), Capexion (Mylan), Modigraf (Astellas Pharma), Perixis (Accord Healthcare), Prograf (Astellas Pharma), Tacni (Teva) and Vivadex (Dexcel Pharma). All of these formulations have marketing authorisations in the UK for the prophylaxis of transplant rejection in adults having a kidney transplant, and all are administered orally, twice a day. Prograf can also be administered intravenously. Modigraf consists of granules for oral suspension. 
+
+- 3.11 For all brands of immediate-release tacrolimus, the summary of product characteristics recommends an initial dose of 0.2– 0.3 mg/kg/day orally or 0.05–0.1 mg/kg/day intravenously, and states that the dosage is usually reduced in the period after the transplant. 
+
+- 3.12 The summary of product characteristics states that the following adverse reactions occur in at least 10% of people having immediate-release tacrolimus: infection, hyperglycaemic conditions, diabetes mellitus, hyperkalaemia, insomnia, tremor, headache, hypertension, diarrhoea, nausea and renal impairment. For full 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 7 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.13 Modigraf (tacrolimus granules for oral suspension) is available in sachets of 0.2 mg and 1 mg at a price of £7.13 per mg (excluding VAT; BNF online [accessed May 2015]). The company has agreed a nationally available price reduction for Modigraf with the Commercial Medicines Unit. The prices agreed through the framework are commercial in confidence. The price of tacrolimus capsules varies by brand. The average cost paid by the NHS for immediate-release tacrolimus capsules is £0.52 per mg (excluding VAT; data from the Electronic Market Information Tool [eMIT], Commercial Medicines Unit). This equates to £50.96–£76.44 per week for an initial dose of 0.2–0.3 mg/kg/day in a 70 kg person. Adoport is available to the NHS with a nationally available price reduction agreed between the company and the Commercial Medicines Unit. The prices agreed through the framework are commercial in confidence. 
+
+## **Prolonged-release tacrolimus** 
+
+- 3.14 Prolonged-release tacrolimus (Advagraf, Astellas Pharma) is administered orally as a capsule, once a day. It has a marketing authorisation in the UK for the prophylaxis of transplant rejection in adults having a kidney transplant. The summary of product characteristics recommends an initial dose for adults of 0.2– 0.3 mg/kg/day. The dosage is usually reduced in the period after the transplant. 
+
+- 3.15 The summary of product characteristics states that the following adverse reactions occur in at least 10% of people having prolonged-release tacrolimus: infection, hyperglycaemic conditions, diabetes mellitus, hyperkalaemia, insomnia, tremor, headache, hypertension, diarrhoea, nausea, renal impairment and abnormal 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 8 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+liver function. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.16 Prolonged-release tacrolimus (Advagraf) is available as 0.5 mg, 1 mg, 3 mg and 5 mg capsules, at a price of £1.07–£1.43 per mg (excluding VAT; BNF online [accessed June 2015]). This equates to £112.11–£210.47 per week for an initial dose of 0.2– 0.3 mg/kg/day in a 70 kg person. Advagraf is available to the NHS with a nationally available price reduction agreed between the company and the Commercial Medicines Unit. The prices agreed through the framework are commercial in confidence. 
+
+- 3.17 Another brand of prolonged-release tacrolimus, Envarsus (Chiesi), obtained a marketing authorisation after the scope for this appraisal was finalised. The brand name Envarsus was not included in the AG's search for evidence and Chiesi was not asked to submit evidence as part of the appraisal. 
+
+## **Belatacept** 
+
+- 3.18 Belatacept (Nulojix, Bristol-Myers Squibb) is a soluble fusion protein designed to selectively inhibit CD28-mediated costimulation of T-cells. Belatacept, in combination with corticosteroids and a mycophenolic acid, has a marketing authorisation in the UK for prophylaxis of graft rejection in adults having a kidney transplant. The summary of product characteristics recommends that an interleukin-2 receptor antagonist is added to this belatacept-based regimen. 
+
+- 3.19 Belatacept is administered intravenously, at a dose of 10 mg/kg on the day of the transplant, followed by 10 mg/kg on days 5, 14, 28, 56 and 84 and then 5 mg/kg every 4 weeks from then on. 
+
+- 3.20 The summary of product characteristics states that the following adverse reactions occur in at least 20% of people having 
+
+National Institute for Health and Care Excellence Page 6 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 9 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+belatacept: diarrhoea, anaemia, urinary tract infection, peripheral oedema (swelling of the feet and ankles), constipation, hypertension, fever, nausea, graft dysfunction, cough, vomiting, leukopenia (a reduced number of white blood cells), hypophosphataemia (a deficiency of phosphates in the blood) and headache. For full details of adverse reactions and 
+
+contraindications, see the summary of product characteristics. 
+
+- 3.21 Belatacept is available in 250 mg vials at a price of £354.52 (excluding VAT; BNF online [accessed June 2015]). For a 70 kg person, this equates to £6381.36 for the first 12 weeks and £709.04 every 4 weeks from week 16 onwards. 
+
+## **Mycophenolate mofetil** 
+
+- 3.22 Mycophenolate mofetil (non-proprietary) has a marketing authorisation in the UK, in combination with ciclosporin and corticosteroids, for the prophylaxis of acute transplant rejection in people having a kidney transplant. It can be administered orally (capsules or an oral suspension) or intravenously, at a recommended dose of 2 g/day. 
+
+- 3.23 The summary of product characteristics states that the following adverse reactions occur in at least 10% of adults having mycophenolate mofetil: viral, bacterial and fungal infections; leukopenia; thrombocytopenia; anaemia; vomiting; abdominal pain; diarrhoea and nausea. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.24 The price of mycophenolate mofetil varies by brand. The oral suspension (CellCept) is available in 175 ml containers of 1 g/5 ml suspension at a price of £3.29 per g (excluding VAT; BNF online, accessed July 2015). The average cost paid by the NHS for mycophenolate mofetil capsules is £0.38 per g (excluding VAT; 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 10 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+data from eMIT, Commercial Medicines Unit), equating to £5.28 per week. 
+
+## **Mycophenolate sodium** 
+
+- 3.25 Mycophenolate sodium (Myfortic, Novartis Pharmaceuticals), in combination with ciclosporin and corticosteroids, has a marketing authorisation in the UK for the prophylaxis of acute transplant rejection in adults having a kidney transplant. It is administered orally, at a recommended dose of 1.44 g per day. 
+
+- 3.26 The summary of product characteristics states that the following adverse reactions occur in at least 10% of adults having mycophenolate sodium: leukopenia; diarrhoea; viral, bacterial and fungal infections; hypertension; decreased levels of calcium or potassium in the blood; increased levels of uric acid in the blood and joint pain. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.27 Mycophenolate sodium is available in 180 mg and 360 mg tablets, at a price of £4.48 per g (excluding VAT; BNF online [accessed June 2015]), equating to £45.13 per week. 
+
+## **Sirolimus** 
+
+- 3.28 Sirolimus (Rapamune, Pfizer) is an antiproliferative that blocks a protein called mammalian target of rapamycin (mTOR). It has a marketing authorisation in the UK for the prophylaxis of organ rejection in adults having a kidney transplant, who are at low to moderate immunological risk. It is recommended to be used initially in combination with ciclosporin and corticosteroids for 2–3 months, and may be continued only if ciclosporin can be progressively discontinued. 
+
+- 3.29 Sirolimus is administered orally as a tablet or solution. The recommended dose is 6 mg initially, followed by 2 mg per day for 
+
+National Institute for Health and Care Excellence Page 8 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 11 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+2–3 months, then adjusted to obtain blood trough levels of 4– 12 ng/ml. 
+
+- 3.30 The summary of product characteristics states that the following adverse reactions occur in at least 10% of adults having sirolimus: fever; hypertension; decreased levels of platelets, red blood cells, potassium or phosphates in the blood; increased levels of cholesterol, sugar, triglycerides, creatinine or lactate dehydrogenase in the blood; urinary tract infection; pain; lymphocele; peripheral oedema; acne; diarrhoea; constipation and nausea. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+- 3.31 Sirolimus is available as 0.5 mg, 1 mg and 2 mg tablets and a 1 mg/ml oral solution, at a net price of £2.71–£4.60 per mg (excluding VAT; BNF online [accessed June 2015]), equating to £16.24–27.60 initially, followed by £37.90–64.40 per week. 
+
+## **Everolimus** 
+
+- 3.32 Everolimus (Certican, Novartis Pharmaceuticals) is an antiproliferative that blocks mTOR. It has a marketing authorisation for the prophylaxis of organ rejection in adults having a kidney transplant, who are at low to moderate immunological risk. The summary of product characteristics states that everolimus should be used in combination with ciclosporin and corticosteroids. Everolimus is administered orally at an initial dose of 1.5 mg/day. 
+
+- 3.33 The summary of product characteristics states that the following adverse reactions occur in at least 10% of adults having everolimus: infections; diabetes; headache; insomnia; anxiety; pain; pericardial or pleural effusion (fluid in the space around the heart or lungs); hypertension; venous thromboembolic events; cough; dyspnoea; abdominal pain; diarrhoea; nausea; vomiting; peripheral oedema; impaired healing; fever; decreased levels of platelets, red 
+
+- National Institute for Health and Care Excellence Page 9 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 12 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+blood cells, white blood cells or potassium in the blood; and increased levels of cholesterol or triglycerides in the blood. For full details of adverse reactions and contraindications, see the summary of product characteristics. 
+
+3.34 Everolimus is available in 0.25 mg, 0.5 mg and 0.75 mg tablets, at a net price of £9.90 per mg (MIMS, June 2015). This equates to £103.95 per week. 
+
+3.35 Costs for all of the technologies may vary in different settings because of negotiated procurement discounts. 
+
+## **4 Evidence and interpretation** 
+
+The Appraisal Committee (section 8) considered evidence from a number of sources (section 9). See the Committee papers for full details of the evidence. The appraisal included 9 drugs for 
+
+immunosuppression after kidney transplant in adults. Basiliximab and rabbit anti-human thymocyte immunoglobulin (r-ATG) are both induction therapies. The other drugs are maintenance therapies: immediate-release tacrolimus, prolonged-release tacrolimus, mycophenolate mofetil, mycophenolate sodium, sirolimus, 
+
+everolimus and belatacept. Under an exceptional directive from the Department of Health, the Appraisal Committee can consider making recommendations about the use of drugs outside the terms of their marketing authorisation when there is compelling evidence of their safety and effectiveness. 
+
+## _**Clinical effectiveness**_ 
+
+4.1 The Assessment Group (AG)’s systematic review found 86 randomised controlled trials, including 11 studies of induction therapies, 73 studies of maintenance therapies and 2 studies examining both induction and maintenance therapies. Of the 86 studies, 23 were included in NICE’s technology appraisal 
+
+National Institute for Health and Care Excellence Page 10 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 13 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+guidance on immunosuppressive therapy for kidney transplantation in adults, and 63 were identified in the updated systematic review for the current appraisal. The AG highlighted that the identified clinical studies were of varying quality; all appeared to have limitations and most had reporting omissions. It considered that only 11 trials adequately matched the population and current practice in the NHS in England. 
+
+## **Induction therapies** 
+
+4.2 The AG found 8 studies that compared basiliximab with placebo or treatment without induction. Pooled results showed that basiliximab was associated with a statistically significant reduction in acute rejection compared with placebo or treatment without induction at 1 year (odds ratio [OR] 0.53, 95% confidence interval [CI] 0.40 to 0.70). The AG stated that the corresponding results at 6 months were inconclusive because of substantial heterogeneity and a lack of statistical significance, although the point estimate favoured basiliximab. Similarly, for the outcomes of mortality at 6 months, graft loss at 6 months and 1 year, and severity of acute rejection at 6 months, the odds ratios suggested a possible benefit with basiliximab compared with treatment without induction, but statistical significance was not reached. No statistically significant differences between basiliximab and treatment without induction were seen in pooled analyses of mortality at 1 year and graft function at 6 months and 1 year. Longer-term outcomes were reported in 1 study, Sheashaa et al. (2013), and the findings were broadly consistent with the pooled results. Statistically significant reductions in acute rejection with basiliximab compared with treatment without induction were seen at 3 and 10 years. There were no statistically significant differences between basiliximab and treatment without induction in mortality or graft function at 3, 5, 7 and 10 years. 
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 14 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.3 The AG’s network meta-analysis (see Table 1) showed that basiliximab was statistically significantly more effective than treatment without induction for acute rejection (OR 0.52, 95% credible interval [CrI] 0.41 to 0.65). The AG stated that there is little evidence to suggest that basiliximab is more effective than treatment without induction for reducing graft loss or mortality. 
+
+- 4.4 The AG found 2 relevant studies that compared r-ATG with treatment without induction. Charpentier et al. (2001 and 2003) found a statistically significant reduction in acute rejection associated with r-ATG compared with treatment without induction at 6 months and 1 year (1 year: OR 0.41, 95% CI 0.24 to 0.72). The AG noted that the reporting of time to acute rejection varied between studies. No statistically significant differences between r- ATG and treatment without induction were seen in mortality or graft loss. The AG’s network meta-analysis (see Table 1) showed that r- ATG was statistically significantly more effective than treatment without induction for preventing acute rejection (OR 0.36, 95% CrI 0.24 to 0.54). The AG stated that there was little evidence to suggest that r-ATG is more effective than treatment without induction for reducing graft loss or mortality or improving graft function. 
+
+- 4.5 The AG found 3 randomised controlled trials that provided head-tohead comparisons between basiliximab and r-ATG. Pooled analyses found no statistically significant differences between basiliximab and r-ATG in mortality, acute rejection, graft loss, graft function or time to acute rejection, at any of the time points assessed. The AG highlighted that studies by Lebranchu et al. (2002) and Mourad et al. (2004) reported differences in graft function and time to acute rejection in favour of basiliximab, although the results were not statistically significant. The AG’s network meta-analysis (see Table 1) suggested that r-ATG may be 
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 15 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+more effective than basiliximab for acute rejection, although the 95% credible interval for the odds ratio crossed 1 (OR 0.70, 95% CrI 0.47 to 1.03). There was no evidence to suggest a statistically significant difference between r-ATG and basiliximab for mortality, graft loss or graft function. 
+
+## **Table 1 Results of the Assessment Group’s network meta-analysis (fixed-effects model) for induction therapy** 
+
+|**Outcome**|**Basiliximab**<br>**versus**<br>**placebo/no**<br>**induction**|**r-ATG versus**<br>**placebo/no**<br>**induction**|**r-ATG versus**<br>**basiliximab**|
+|---|---|---|---|
+|Mortality, OR<br>(95% CrI)|0.99<br>(0.53 to 1.85)|0.84<br>(0.33 to 2.07)|0.84<br>(0.36 to 1.96)|
+|Graft loss, OR<br>(95% CrI)|0.82<br>(0.56 to 1.18)|0.77<br>(0.39 to 1.47)|0.94<br>(0.50 to 1.75)|
+|BPAR, OR<br>(95% CrI)|**0.52**<br>**(0.41 to 0.65)**|**0.36**<br>**(0.24 to 0.54)**|0.70<br>(0.47 to 1.03)|
+|Graft function, mean<br>eGFR (95% CrI)|2.11<br>(−0.45, 4.68)|−3.95<br>(−11.8, 3.94)|−6.06<br>(−13.5, 1.37)|
+|Notes: an odds ratio less than 1 means fewer events with the first treatment in the<br>comparison. Evidence suggesting a difference between treatments is in bold text.<br>Abbreviations: BPAR, biopsy-proven acute rejection; CrI, credible interval; OR,<br>odds ratio; r-ATG, rabbit anti-human thymocyte immunoglobulin.||||
+
+
+
+## **Maintenance therapies** 
+
+- 4.6 The AG presented clinical effectiveness results for the 7 maintenance drugs from a series of head-to-head comparisons using pooled data and from its network meta-analysis. 
+
+## _**Tacrolimus**_ 
+
+- 4.7 Pooled comparisons suggested that, when used with azathioprine, tacrolimus was associated with fewer episodes of acute rejection after 1–4 years and less severe acute rejection after 1–2 years, compared with ciclosporin. When used with mycophenolate mofetil, tacrolimus was associated with a reduction in the incidence and time to acute rejection and improvement in graft function at 1– 
+
+
+National Institute for Health and Care Excellence Page 13 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 16 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+3 years, compared with ciclosporin. Similarly, graft function at 6 months and 1 year was greater with tacrolimus plus sirolimus than with ciclosporin plus sirolimus. 
+
+- 4.8 Tacrolimus plus mycophenolate mofetil was associated with a statistically significantly lower incidence of acute rejection, compared with sirolimus plus mycophenolate mofetil. Similarly, for tacrolimus plus mycophenolate sodium, the odds ratio for acute rejection appeared to favour tacrolimus compared with sirolimus, although this did not reach statistical significance. 
+
+- 4.9 Comparison of immediate-release and prolonged-release tacrolimus (plus mycophenolate mofetil) showed no consistent clinically significant differences. In 1 study, immediate-release tacrolimus was associated with statistically significantly greater graft function at 6 months, although the difference was not statistically significant at 1 year in a pooled analysis. Analysis of 2 studies suggested that immediate-release tacrolimus was associated with a reduction in the most severe classification of acute rejection. Conversely, there was a trend towards improvement in the incidence of acute rejection with prolongedrelease tacrolimus at 6 months, although this did not reach statistical significance and no statistically significant difference was seen at 1 year. 
+
+## _**Belatacept**_ 
+
+- 4.10 Belatacept plus mycophenolate mofetil was associated with statistically significant improvements in graft loss at 5 years and graft function at 1, 3 and 5 years, compared with ciclosporin plus mycophenolate mofetil (although the latter outcome was associated with substantial heterogeneity so should be interpreted with caution). In this comparison, there was a trend towards improved mortality with belatacept, but the effect did not reach statistical 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 17 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+significance. Conversely, belatacept was associated with statistically significantly greater acute rejection than ciclosporin at 5 years. 
+
+## _**Mycophenolate mofetil and mycophenolate sodium**_ 
+
+- 4.11 Mycophenolate mofetil plus ciclosporin was associated with fewer acute rejections than azathioprine at 6 months. Mycophenolate mofetil plus sirolimus was associated with statistically significantly greater graft function than tacrolimus at 2 years. 
+
+- 4.12 Mycophenolate mofetil and mycophenolate sodium were compared in 2 trials. The AG noted that there appeared to be no noticeable difference between arms for any of the reported outcomes; although a statistically significant benefit in graft function with mycophenolate sodium was seen at 6 months and 1 year, this effect was lost at later time points. 
+
+## _**Sirolimus**_ 
+
+- 4.13 Sampaio et al. (2008) reported a statistically significantly greater mean time to acute rejection with sirolimus than with mycophenolate mofetil (both plus tacrolimus). Sirolimus plus mycophenolate mofetil was associated with statistically significantly reduced graft function compared with ciclosporin plus mycophenolate mofetil after 2–5 years. However, sirolimus plus azathioprine appeared to statistically significantly improve graft function at 6 months and 1 year compared with ciclosporin plus azathioprine (1 study). 
+
+## _**Everolimus**_ 
+
+- 4.14 Mjornstedt et al. (2012) compared everolimus with ciclosporin (both plus mycophenolate sodium), and saw a statistically significant increase in the odds of acute rejection at 1 year with everolimus. 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 18 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## _**Network meta-analyses**_ 
+
+- 4.15 The AG noted that there was substantial heterogeneity in all of the network meta-analyses. It stated that none of the maintenance regimens performed consistently well across all 4 outcomes assessed in the network meta-analysis (mortality, graft loss, acute rejection and graft function), although some differences between regimens were seen for some outcomes (see Table 2). The AG stated that because of wide confidence intervals, there was a great deal of uncertainty associated with the results and limited conclusions could be drawn. 
+
+   - Mortality: Belatacept plus mycophenolate mofetil was more effective at reducing mortality than tacrolimus and sirolimus (both plus mycophenolate mofetil). 
+
+   - Graft loss: There was no evidence to suggest that any of the treatments were better than the others for this outcome. 
+
+   - Acute rejection: Ciclosporin plus azathioprine was statistically significantly worse than 5 regimens (tacrolimus plus azathioprine, mycophenolate mofetil or sirolimus, and ciclosporin plus mycophenolate mofetil or everolimus). Everolimus plus mycophenolate mofetil was statistically significantly worse than 3 regimens (tacrolimus or ciclosporin plus mycophenolate mofetil, and tacrolimus plus sirolimus). 
+
+   - Graft function: A number of regimens (specifically tacrolimus plus azathioprine or sirolimus, ciclosporin plus everolimus, and ciclosporin or tacrolimus plus mycophenolate mofetil) were better than ciclosporin plus azathioprine. Tacrolimus or belatacept plus mycophenolate mofetil were better than ciclosporin plus mycophenolate mofetil. Tacrolimus plus azathioprine was better than 3 regimens (tacrolimus plus sirolimus, and ciclosporin plus mycophenolate mofetil or sirolimus). 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 19 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Table 2 Summary of the Assessment Group’s network meta-analyses for maintenance therapy; median treatment effects (and 95% credible intervals) compared with ciclosporin plus azathioprine** 
+
+|**Regimen**|**Odds ratios**<br>_Lower is better_|**Odds ratios**<br>_Lower is better_|**Odds ratios**<br>_Lower is better_|**Graft function**<br>**(mean**<br>**difference in**<br>**eGFR)**<br>_Higher is better_|
+|---|---|---|---|---|
+||**Mortality**|**Graft loss**|**BPAR**||
+|IR tacrolimus<br>and<br>azathioprine|1.38<br>(0.74 to 2.60)|1.13<br>(0.67 to 2.15)|**0.58**<br>**(0.36 to 0.93)**|**9.31**<br>**(4.32 to 14.28)**|
+|Ciclosporin and<br>mycophenolate<br>mofetil|0.94<br>(0.45 to 1.95)|0.76<br>(0.35 to 1.44)|**0.47**<br>**(0.25 to 0.88)**|1.61<br>(−4.16 to 7.41)|
+|Tacrolimus and<br>mycophenolate<br>mofetil|1.53<br>(0.63 to 3.71)|0.69<br>(0.28 to 1.55)|**0.40**<br>**(0.19 to 0.79)**|**6.53**<br>**(0.38 to 12.68)**|
+|Belatacept and<br>mycophenolate<br>mofetil|0.47<br>(0.15 to 1.38)|0.62<br>(0.20 to 1.78)|0.81<br>(0.34 to 1.94)|**10.54**<br>**(2.47 to 18.66)**|
+|Ciclosporin and<br>everolimus|1.40<br>(0.52 to 3.65)|0.63<br>(0.20 to 1.58)|**0.46**<br>**(0.21 to 0.99)**|4.85<br>(−2.84 to<br>12.58)|
+|IR tacrolimus<br>and sirolimus|1.38<br>(0.49 to 3.88)|1.19<br>(0.38 to 3.35)|**0.38**<br>**(0.16 to 0.93)**|−0.34<br>(−8.53 to 7.85)|
+|Sirolimus and<br>mycophenolate<br>mofetil|1.72<br>(0.68 to 4.31)|1.06<br>(0.38 to 2.43)|**0.43**<br>**(0.22 to 0.92)**|3.84<br>(−2.72 to<br>10.43)|
+|Evidence suggesting a difference between treatments is in bold text.<br>Abbreviations: BPAR, biopsy-proven acute rejection; eGFR, estimated glomerular<br>filtration rate (in ml/min/1.73 m2); IR, immediate release.|||||
+
+
+
+## **Adverse events** 
+
+- 4.16 The AG summarised adverse event data from all the identified clinical trials. The AG focused in particular on 6 groups of adverse events: new-onset diabetes, malignancy, post-transplant lymphoproliferative disorders, infections, cytomegalovirus (CMV) infections and dyslipidaemia. 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 20 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.17 The AG found evidence to suggest that r-ATG may be associated with an increase in CMV infections. In the AG’s pooled analysis, r-ATG was associated with a statistically significant increase in CMV infections compared with treatment without induction, although there was no statistically significant difference between r-ATG and basiliximab. No statistically significant differences between r-ATG, basiliximab and treatment without induction were seen in the incidence of infections, new-onset diabetes or malignancy, in the pooled analyses. 
+
+- 4.18 The AG’s meta-analysis of adverse events with maintenance therapies found a number of statistically significant differences between treatments in the incidence of diabetes, all infections and CMV infections. In particular, tacrolimus and sirolimus increased the rate of new-onset diabetes compared with ciclosporin, whereas belatacept reduced the rate of this event. Sirolimus and everolimus were both associated with statistically significantly reduced rates of CMV infection, compared with ciclosporin and mycophenolate respectively. Tacrolimus was associated with a statistically significantly reduced rate of all infections compared with sirolimus. There were no other statistically significant differences between treatments in the incidence of adverse events. 
+
+- 4.19 The AG found that, based on a fixed-effect meta-analysis of 10 studies, everolimus and sirolimus statistically significantly increased the risk of dyslipidaemia, compared with regimens that did not contain these drugs. 
+
+## **Comments from other consultees** 
+
+- 4.20 Consultees highlighted that each of the technologies under consideration may have benefits for particular groups of people. In particular, they stated that: 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 21 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- r-ATG may be valuable in people with high immunological risk of rejection. 
+
+- Once-daily (prolonged-release) tacrolimus and the once-monthly regimen for belatacept may help improve adherence. 
+
+- Belatacept may benefit people who cannot take or cannot digest oral therapies and may reduce the long-term adverse effects of calcineurin inhibitors. 
+
+- Sirolimus and everolimus may improve graft function and may be particularly valuable in people with a history of cancer (although they are thought to have adverse effects on wound healing). 
+
+- Mycophenolate mofetil and mycophenolate sodium may help reduce steroid use. 
+
+- Mycophenolate sodium may benefit people who have gastrointestinal adverse reactions with mycophenolate mofetil. 
+
+- Everolimus may be an option for people at high risk of CMV infection. 
+
+- Older people have a different risk–benefit balance to younger people and so should be considered separately. 
+
+Consultees highlighted that the availability of additional drugs and combinations for particular groups may help increase access to transplants. The AG emphasised that there was not enough evidence available for robust subgroup analyses. 
+
+- 4.21 The professional group stated that competitive tendering processes have resulted in most immunosuppressive drugs being purchased below their list price. It stated that the actual acquisition cost should be used in economic analyses. Consultees stated that 
+
+mycophenolate mofetil and tacrolimus are often used at lower doses than specified in their marketing authorisations, and doses may be adjusted during treatment, which may affect their costs. 
+
+
+National Institute for Health and Care Excellence Page 19 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 22 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.22 In their responses to the assessment report, consultees noted that the AG’s systematic review had focused only on randomised controlled trials, and had not included non-randomised studies, pharmacokinetic evaluations and registries. In addition, the included studies were of variable quality, may not fully represent clinical practice, and did not provide much long-term evidence. The AG acknowledged the limitations in the evidence available. 
+
+## _**Cost effectiveness**_ 
+
+- 4.23 Economic analyses were presented by the AG, Astellas, BristolMyers Squibb and Novartis. 
+
+## **The Assessment Group’s economic model** 
+
+- 4.24 The AG presented an economic model based on a discrete-time state transition structure, with a time horizon of 50 years and a cycle length of 3 months. The model took the perspective of the NHS and personal social services, and costs and health effects were discounted at a rate of 3.5% per year. The AG stated that its model was independent of that built for NICE’s technology appraisal guidance on immunosuppressive therapy for renal transplantation in adults. It highlighted that the previous analysis had not fully accounted for uncertainty and had not taken into account the recently identified effect of kidney function on clinical and economic outcomes. 
+
+- 4.25 The model comprised 7 states. Throughout the model, people were assumed to have a functioning kidney transplant (‘functioning graft’ states), or to depend on dialysis (‘graft-loss’ states) or to have died (‘death’ state). At the start of the model, most patients were in the first functioning graft state. The remaining patients were in the first graft-loss state because their transplant did not work (called ‘primary non-function’). From the first functioning graft state, patients moved to the first graft-loss state if the transplanted kidney 
+
+National Institute for Health and Care Excellence Page 20 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 23 -->
+
+## **CONFIDENTIAL UNTIL PUBLISHED** 
+
+stopped working, or they could have a second transplant before the graft stopped working (called ‘pre-emptive re-transplant’) and would enter one of the subsequent states. From the first graft-loss state, patients could have a second transplant (‘re-transplant’) and enter one of the subsequent states. When patients had a second transplant, they could move to the second functioning graft state and then, when the second transplant stopped working, to the second graft-loss state. If the second transplant was not successful (primary non-function), patients moved directly to the second graftloss state. From the second graft-loss state, a third transplant was modelled similarly to the second transplant. Mortality was modelled by moving to the ‘death’ state (referred to as ‘death with functioning graft’ and ‘death following graft loss’). 
+
+4.26 Movement between health states was determined by 3 key factors: mortality, graft loss, and rates of transplant. An underlying rate for each of these factors was derived from registry data; the underlying rates of mortality and graft loss were then adjusted for each immunosuppressive regimen using clinical effectiveness data. 
+
+- 4.27 In the AG’s model, death could occur either before graft loss (that is, from the functioning graft states; called ‘death with a functioning graft’) or after graft loss. 
+
+   - The underlying rate of death with a functioning graft was based on data from the UK Transplant Registry. In the first year, this underlying rate was adjusted for each regimen using survival data from the AG’s network meta-analysis. In subsequent years, the rate was adjusted based on a surrogate relationship between new-onset diabetes and death. 
+
+   - The rate of death after graft loss was based on mortality associated with dialysis, taken from the UK Renal Registry. This was not adjusted according to the immunosuppressive regimen. 
+
+
+National Institute for Health and Care Excellence Page 21 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 24 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|4.28|Graft loss was modelled using graft survival data (censored for|
+|---|---|
+||death) taken from the UK Transplant Registry and extrapolated|
+||beyond 1 year using a Weibull model. In the first year, the|
+||underlying rate of graft loss was adjusted for each|
+||immunosuppressive regimen to match the rates seen in the AG’s|
+||network meta-analysis. In subsequent years, the rate was adjusted|
+||according to a surrogate relationship between graft loss and|
+||3 variables: acute rejection, new-onset diabetes and graft function|
+||at 12 months.|
+
+
+
+- 4.29 The AG modelled health-related quality of life using an age- and sex-dependent baseline utility score, combined with a utility decrease (decrement) for the functioning graft and graft loss health states. The baseline score was derived from the Heath Survey for England (2012). A utility decrement of 0.053 was applied to the functioning graft states, based on a published meta-analysis of data using the EuroQol EQ-5D questionnaire, for people living with a kidney transplant. The same meta-analysis was used to derive utility decrements associated with haemodialysis (0.277) and peritoneal dialysis (0.264), which were applied to the graft-loss states. In addition the AG assumed that new-onset diabetes would reduce quality of life, by modelling an additional utility decrement (0.06). 
+
+- 4.30 The model calculated the costs associated with each immunosuppressive regimen, including: drug acquisition, drug administration and monitoring, patient follow-up, dialysis and retransplant, preventing and managing adverse events, and treating acute rejection. The AG stated that immunosuppressive therapy is prescribed in hospitals; therefore, in the base case, drug acquisition costs were taken from the Commercial Medicines Unit’s Electronic Market Information Tool (eMIT) when possible, and from the published list price or company submission otherwise. For 
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 25 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+belatacept, the AG assumed that partially used vials were not shared between patients. The costs of adverse events included new-onset diabetes, preventing and treating infections (including CMV), dyslipidaemia and anaemia. The rate of new-onset diabetes was estimated for each maintenance regimen, and the rates of CMV infection and dyslipidaemia were adjusted from a common baseline for any regimens containing sirolimus or everolimus; rates of anaemia were assumed to be the same for all regimens. Cost estimates were based on NHS reference costs when available, and from costing studies presented by Bristol-Myers Squibb and data from University Hospital Wales. 
+
+4.31 The AG modelled a total of 16 immunosuppressive regimens, representing those it understood to be in current use in the NHS or which could plausibly be used, and for which there was sufficient evidence. Some of these regimens were outside the marketing authorisations for the respective drugs. Induction agents and maintenance regimens were combined, assuming independence. The AG assumed that all regimens included corticosteroids. Because the AG’s network meta-analysis did not distinguish between mycophenolate mofetil and mycophenolate sodium or between immediate- and prolonged-release tacrolimus, clinical effectiveness estimates and adverse event rates were calculated by adjusting results from the network meta-analyses using head-tohead comparisons. For all regimens, the model assumed that after re-transplant, all patients switched to the same regimen (basiliximab, tacrolimus and mycophenolate mofetil) for the second and subsequent transplant. 
+
+## **The Assessment Group’s economic model: results** 
+
+- 4.32 For the induction treatments, the AG presented comparisons between basiliximab, r-ATG and treatment without induction, for combinations with 3 different maintenance regimens (see Table 3). 
+
+National Institute for Health and Care Excellence Page 23 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 26 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+In all analyses, basiliximab dominated (that is, was more effective and less costly) both r-ATG and treatment without induction. r-ATG was more costly and more effective than treatment without induction, and was associated with incremental cost-effectiveness ratios (ICERs) of £63,150 to £332,971 per quality-adjusted life year (QALY) gained. 
+
+**Table 3 The Assessment Group’s economic analysis for induction therapies: summary of pairwise cost-effectiveness comparisons (deterministic results)** 
+
+|**Induction**<br>**drug**|**Discounted costs**|**Discounted costs**|**Discounted QALYs**|**Discounted QALYs**|**ICER(costper QALY)**|**ICER(costper QALY)**|
+|---|---|---|---|---|---|---|
+||**Total**|**Increment**<br>**al**|**Total**|**Increment**<br>**al**|**Increment**<br>**al**|**Versus no**<br>**induction**|
+|**_With ciclosporin + azathioprine_**|||||||
+|No induction|£101,595|–|10.7711|–|Dominated||
+|r-ATG|£104,570|£2975|10.8182|0.0471|Dominated|£63,150|
+|Basiliximab|£98,244|−£6326|10.9029|0.0848|–|Dominant|
+|**_With ciclosporin + mycophenolate mofetil_**|||||||
+|No induction|£97,429|–|10.9145|–|Dominated||
+|r-ATG|£101,940|£4511|10.9281|0.0135|Dominated|£332,971|
+|Basiliximab|£95,219|−£6720|11.0247|0.0966|–|Dominant|
+|**_With tacrolimus + mycophenolate mofetil_**|||||||
+|No induction|£92,226|–|10.8884|–|Dominated||
+|r-ATG|£97,146|£4920|10.9047|0.0163|Dominated|£301,516|
+|Basiliximab|£90,405|−£6741|10.988|0.0832|–|Dominant|
+|Dominated: provides fewer QALYs at greater cost than the comparator.<br>Dominant: provides more QALYs at lower cost than the comparator.<br>Abbreviations: ICER, incremental cost-effectiveness ratio; QALY, quality-adjusted life year; r-ATG,<br>rabbit anti-human thymocyte immunoglobulin|||||||
+
+
+
+4.33 For the maintenance treatments, the AG presented results for all 7 drugs, compared with each other and with ciclosporin and azathioprine when possible (see tTable 4). The AG stated that, in these analyses, only immediate-release tacrolimus and mycophenolate mofetil appeared cost effective if the maximum acceptable ICER were £30,000 per QALY gained. Immediaterelease tacrolimus dominated prolonged-release tacrolimus, sirolimus and ciclosporin (in 1 of 4 comparisons). Compared with belatacept (in 1 comparison) and ciclosporin (3 of 4 comparisons), National Institute for Health and Care Excellence Page 24 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 27 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+immediate-release tacrolimus was less costly and less effective than the comparator, with ICERs ranging from £131,035 to £388,740 per QALY lost. Mycophenolate mofetil dominated sirolimus and azathioprine (4 comparisons) and was less costly and less effective than mycophenolate sodium (£144,449 per QALY lost) and everolimus (£1,532,379 per QALY lost). All the other interventions were either dominated or were more effective and more costly than their respective comparators with ICERs greater than £50,000 per QALY gained. 
+
+## **Table 4 The Assessment Group’s economic analysis for maintenance therapies: summary of incremental cost-effectiveness comparisons (deterministic results)** 
+
+||**Discounted costs**|**Discounted costs**|**Discounted QALYs**|**Discounted QALYs**|**ICER (cost**<br>**per QALY)**|
+|---|---|---|---|---|---|
+||**Total**|**Incremental**|**Total**|**Incremental**||
+|**_With mycophenolate mofetil_**||||||
+|Tacrolimus-PR|£106,529|–|10.7920|–|Dominated|
+|Tacrolimus-IR|£92,226|−£14,303|10.8884|+0.0964|–|
+|Ciclosporin|£97,429|+£5203|10.9145|+0.0261|£199,118|
+|**_With azathioprine_**||||||
+|Ciclosporin|£101,595|–|10.7711|–|Dominated|
+|Tacrolimus|£93,319|−£8276|10.8696|+0.0986|–|
+|**_With basiliximab+mycophenolate mofetil_**||||||
+|Sirolimus|£114,549|–|10.9010|–|Dominated|
+|Tacrolimus-IR|£90,405|−£24,144|10.9880|+0.0869|–|
+|Ciclosporin|£95,219|+£4815|11.0247|+0.0367|£131,035|
+|Belatacept|£209,409|+£114,189|11.2941|+0.2694|£423,890|
+|**_With r-ATG+mycophenolate mofetil_**||||||
+|Tacrolimus-IR|£97,146|–|10.9047|–|–|
+|Ciclosporin|£101,940|+£4794|10.9281|+0.0234|£205,214|
+|**_With ciclosporin_**||||||
+|Azathioprine|£101,595|–|10.7711|–|Dominated|
+|Mycophenolate<br>mofetil|£97,429|−£4166|10.9145|+0.1435|–|
+|Everolimus|£176,154|+£78,725|10.9659|+0.0514|£1,532,379|
+|**_With tacrolimus-IR_**||||||
+|Sirolimus|£125,539|–|10.6023|–|Dominated|
+|Azathioprine|£93,319|−£32,220|10.8696|+0.2674|Dominated|
+|Mycophenolate<br>mofetil|£92,226|−£1093|10.8884|+0.0188|–|
+|National Institute for Health and Care Excellence||||Page 25 of 73||
+
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 28 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|||||||
+|---|---|---|---|---|---|
+|**_With basiliximab+ciclosporin_**||||||
+|Azathioprine|£98,244|–|10.9029|–|Dominated|
+|Mycophenolate<br>mofetil|£95,219|−£3025|11.0247|+0.1218|–|
+|Mycophenolate<br>sodium|£111,540|+£16,321|11.1377|+0.1130|£144,449|
+|**_With r-ATG+ciclosporin_**||||||
+|Azathioprine|£104,570|–|10.8182|–|Dominated|
+|Mycophenolate<br>mofetil|£101,940|−£2631|10.9281|+0.1099|–|
+|Dominated: provides fewer QALYs at greater cost than the comparator.<br>Abbreviations: ICER, incremental cost-effectiveness ratio; IR, immediate release; PR, prolonged<br>release; QALY, quality-adjustedlife year;r-ATG,rabbit anti-humanthymocyteimmunoglobulin||||||
+
+
+
+- 4.34 In the simultaneous comparison of the 16 regimens, all except 4 regimens were dominated or extendedly dominated (that is, a combination of 2 comparators provided equal health at a lower cost). The 4 regimens (tacrolimus plus mycophenolate mofetil, ciclosporin plus mycophenolate mofetil, ciclosporin plus mycophenolate sodium and belatacept plus mycophenolate mofetil, all with basiliximab induction) were therefore compared in an incremental analysis. Of these, basiliximab plus tacrolimus and mycophenolate mofetil was the least costly and least effective; the remaining regimens were associated with ICERs much greater than £100,000 per QALY gained compared with the next, less costly alternative. 
+
+- 4.35 The AG presented a probabilistic sensitivity analysis; the results were mostly similar to the deterministic analysis. The largest difference between the analyses was that for the regimen of basiliximab, ciclosporin and mycophenolate sodium the probabilistic analysis predicted 0.1133 fewer QALYs. This led to some changes in the ICERs in the pairwise comparison of maintenance drugs, and led to basiliximab plus ciclosporin and mycophenolate sodium becoming dominated in the simultaneous comparison of regimens. However, the AG’s conclusions remained unchanged. 
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 29 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.36 The AG explored uncertainties in the model structure using 5 scenario analyses. These analyses explored the effect of the surrogate relationship between graft survival and clinical variables, the effect of possible nephrotoxicity associated with ciclosporin and tacrolimus, and the costs of treatment. In particular, the costs of immunosuppressive therapies were explored using the list prices for all drugs (rather than the eMIT prices) and a discounted price for prolonged-release tacrolimus available through a national tender. 
+
+- 4.37 Consultees raised a number of queries about the AG’s economic analysis. 
+
+   - Consultees expressed concerns about the drug acquisition costs used in the model. The AG emphasised that the prices used in the model closely matched the costs to NHS hospitals. 
+
+   - Novartis suggested an alternative approach for modelling quality of life, whereby utilities are adjusted based on graft function. The AG noted uncertainties in the evidence to support this approach. 
+
+   - Sanofi queried the costs associated with CMV infections. The AG noted that this is not a major driver of the model results. 
+
+   - The British Transplantation Society queried the use of a Weibull model to extrapolate survival. The AG considered that the Weibull model was unlikely to have overestimated survival, and was not expected to affect the overall conclusions. 
+
+   - Astellas noted that the model did not consider the effect of adherence. The AG considered that there was limited randomised controlled trial evidence to inform decision-making, and recommended caution in using this surrogate outcome. 
+
+   - NHS England considered that some additional regimens should have been modelled. The AG acknowledged this limitation, and stated that it was driven by a lack of clinical trial evidence. 
+
+
+National Institute for Health and Care Excellence Page 27 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 30 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- Consultees queried the limited inclusion of malignancy and cardiovascular outcomes. The AG stated that malignancy would only affect the cost-effectiveness conclusions if different agents were associated with different rates of this outcome. 
+
+## **Company economic models: Astellas** 
+
+- 4.38 Astellas presented a Markov model with 6 states, a 1-year cycle length and a 25-year time horizon. The model represented the clinical pathway of people having immunosuppressive therapy, based on the rates of acute rejection, graft loss, re-transplant and mortality taken from the company’s clinical effectiveness review, NHS Blood and Transplant and the UK Renal Registry. The company assumed that prolonged-release tacrolimus was associated with improved adherence compared with the immediaterelease formulation, and that this led to a decrease in the risk of acute rejection and an improvement in graft survival. Health-related quality of life was calculated by applying utility scores to each of the health states, based on EQ-5D data from a study done at the University Hospital of Wales. Costs and QALYs were discounted at a rate of 3.5% per year in the base case. 
+
+- 4.39 The company presented the results for each immunosuppressive drug compared with immediate-release tacrolimus. In the base case, belatacept and everolimus were dominated by immediaterelease tacrolimus, whereas prolonged-release tacrolimus was dominant. Sirolimus was less costly and less effective than immediate-release tacrolimus, with ICERs of £170,681 to £1,651,801 per QALY lost. The model results were similar in all sensitivity analyses, except for 1 scenario analysis in which sirolimus was dominated by immediate-release tacrolimus. 
+
+- 4.40 The AG highlighted a number of concerns about the Astellas model. The AG noted that the company had omitted ciclosporin as 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 31 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+a comparator, which affected interpretation of the results. It highlighted that the analysis did not include the effect of graft function on health and cost outcomes or its implications for graft survival and considered that survival estimates for the functioning graft state may have been underestimated. The AG noted that the comparison between immediate- and prolonged-release tacrolimus was based on a relationship between non-adherence and clinical outcomes, but that this effect was not accounted for with other regimens. The AG also expressed concerns about the drug dosages used for each treatment and the costs and QALYs associated with dialysis. 
+
+## **Company economic models: Bristol-Myers Squibb** 
+
+- 4.41 Bristol-Myers Squibb presented an analysis of the cost effectiveness of belatacept compared with tacrolimus and ciclosporin. This was based on a 36-month initial phase followed by a longer-term Markov model with a lifetime time horizon. Healthrelated quality of life was estimated by applying utility estimates to the functioning graft state (split by estimated glomerular filtration rate [eGFR]) and graft-loss state and utility decrements associated with 3 complications after transplant (new-onset diabetes, posttransplant lymphoproliferative disorders and acute rejection). Resource use was estimated using an observational database study (PORTRAIT), combined with separate costs for immunosuppressive regimens (based on list prices) and complications after transplant. All costs and QALYs were discounted at a rate of 3.5% per year. 
+
+- 4.42 The base-case analysis showed that belatacept was more costly and more effective than both ciclosporin and tacrolimus. Belatacept was associated with ICERs of £95,053 and £147,334 per QALY gained, compared with ciclosporin and tacrolimus respectively. 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 32 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.43 The company also presented a subgroup analysis of people whose graft survival was expected to be short (people with an eGFR of less than 30 ml/min/1.73 m[2 ] at 1 year after transplant). In this analysis, belatacept dominated both ciclosporin and tacrolimus. 
+
+- 4.44 The AG commented that the Bristol-Myers Squibb model captured the key clinical outcomes and incorporated the effects of kidney function and acute rejection on costs and quality of life. It highlighted that using the results of the cost study presented by Bristol-Myers Squibb was a major strength of the model. However, the AG considered that the model had methodological limitations relating to the generalisability of the transition probabilities (which were derived from US patient data) to the UK population, the application of efficacy differences between drugs and the assumption of a linear decline in eGFR after 3 years. The AG also noted important limitations in the subgroup analyses. 
+
+## **Company economic models: Novartis** 
+
+- 4.45 Novartis presented a patient-level simulation model, in which individual patients were followed through a pathway based on acute rejection, graft failure, re-transplant and death. The model used 1-month cycles and a lifetime time horizon to capture the cost effectiveness of everolimus plus reduced-dose ciclosporin and mycophenolate sodium plus standard-dose ciclosporin, compared with mycophenolate mofetil plus standard-dose ciclosporin or tacrolimus. The model captured health-related quality of life by applying published EQ-5D data to each patient according to their eGFR. After consultation, Novartis submitted additional economic analyses, and corrected errors in the programming of the model. 
+
+- 4.46 In the base-case analysis (uncorrected results), everolimus plus ciclosporin dominated tacrolimus plus mycophenolate mofetil. After correcting errors in the model, everolimus plus ciclosporin was 
+
+National Institute for Health and Care Excellence Page 30 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 33 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+associated with an ICER of £17,182 per QALY gained compared with mycophenolate mofetil plus ciclosporin. Mycophenolate sodium dominated mycophenolate mofetil (both plus ciclosporin). The company noted that the results were sensitive to the utility score for people with stage 3 chronic kidney disease, the time to re-transplant and the effect of treatment discontinuation. 
+
+- 4.47 Novartis’s additional economic analyses matched the costs, efficacy parameters and key assumptions in the model to the AG’s model, and explored the effect of utility assumptions on the results. In the revised base case, everolimus plus ciclosporin was associated with an ICER of £100,459 per QALY gained compared with ciclosporin plus mycophenolate mofetil. Mycophenolate sodium was associated with an ICER of £27,327 per QALY gained, compared with mycophenolate mofetil (both plus ciclosporin). The company noted that the methods of utility estimation had a large effect on the results. 
+
+- 4.48 The AG stated that the key strength of the Novartis model was that it took into account the effect of clinical events (specifically acute rejection, graft and patient survival, and graft function) on costs and health outcomes, although new-onset diabetes had been omitted. However, it was concerned that clinical outcomes were based on evidence from selected single trials and not from a systematic review or meta-analysis. It also considered that the assumption that graft failure occurs independently of graft function and acute rejection was flawed. The AG considered that the revised analyses sought to address some limitations of the original model, in particular, the use of clinical effectiveness estimates from the AG’s systematic review. But because of the format used (changes were described in text and no revised model was provided) and the timing of these revisions the ERG could not verify the quality of the new results. The AG acknowledged the company’s approach to 
+
+National Institute for Health and Care Excellence Page 31 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 34 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+modelling utility based on graft function, noting that this was a limitation in the AG’s model. However, it emphasised that there is too much uncertainty in the medium and long-term changes in kidney function to be confident that Novartis’s approach is better. The AG questioned whether the subgroup analysis of mycophenolate sodium as a second-line therapy was robust enough to support the cost effectiveness of this treatment. 
+
+## **Summary** 
+
+- 4.49 The AG’s economic analyses of induction therapies suggested that: 
+
+   - Basiliximab dominated both r-ATG and treatment without induction. 
+
+   - r-ATG was more costly and more effective than treatment without induction, with ICERs of £63,100 to £333,000 per QALY gained. 
+
+- 4.50 The AG’s economic analyses of maintenance therapies suggested that: 
+
+   - Immediate-release tacrolimus dominated prolonged-release tacrolimus, sirolimus and ciclosporin (in 1 of 4 comparisons) and was less costly and less effective than belatacept (in 
+
+      - 1 comparison) and ciclosporin (in 3 of 4 comparisons), with ICERs of £131,000 to £389,000 per QALY lost. 
+
+   - Mycophenolate mofetil dominated sirolimus and azathioprine, and was less costly and less effective than mycophenolate sodium (£144,000 per QALY lost) and everolimus (£1,530,000 per QALY lost). 
+
+   - All the other interventions were either dominated or were more effective and more costly than their respective comparators, with ICERs greater than £50,000 per QALY gained. 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 35 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- 4.51 The AG’s simultaneous comparison of the 16 modelled regimens found that all except 4 regimens were either dominated or extendedly dominated. Of these, basiliximab with tacrolimus and mycophenolate mofetil was the least costly and least effective, and the remainder were associated with ICERs greater than £100,000 per QALY gained compared with the next, less costly alternative. 
+
+- 4.52 Three companies presented economic analyses: 
+
+   - Astellas: prolonged-release tacrolimus dominated immediaterelease tacrolimus, which in turn dominated belatacept and everolimus. Sirolimus was less costly and less effective than immediate-release tacrolimus, with ICERs of £1,652,000 and £171,000 per QALY lost. 
+
+   - Bristol-Myers Squibb: belatacept was more costly and more effective than both ciclosporin and tacrolimus, with ICERs of £95,100 and £147,300 per QALY gained respectively. In people whose expected graft survival was likely to be short, belatacept dominated ciclosporin and tacrolimus. 
+
+   - Novartis: everolimus (plus ciclosporin) dominated mycophenolate mofetil (plus tacrolimus), and was associated with an ICER of £17,200 per QALY gained compared with mycophenolate mofetil (plus ciclosporin). Mycophenolate sodium dominated mycophenolate mofetil (both plus ciclosporin). 
+
+- 4.53 The AG highlighted a number of limitations in the company models. It also commented on several differences between the models presented, noting in particular the choice of regimens, the use of surrogate outcomes and clinical effectiveness outcomes, costs for drug acquisition, drug administration and dialysis, and utility values. The AG commented that the less favourable results seen in its own model (compared with the company models) was mainly a result of using a systematic review and meta-analysis rather than specific 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 36 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+randomised controlled trials, differences in the use of surrogate end points and the use of US data for extrapolations. It noted that the lower estimates of graft survival in the AG’s model led to smaller cost differences between regimens. The AG’s more complete and realistic costings and smaller differences in utility between functioning graft and graft-loss states tended to reduce the effect of clinical effectiveness differences between drugs (relative to the company models) on the QALYs. 
+
+4.54 The AG acknowledged that there were limitations and uncertainties in its analysis. It stated that its analysis did not consider changes in graft function over time, the effect of corticosteroid reduction, differences in the severity of acute rejection, stopping or switching treatment (including delayed introduction of sirolimus) or the effect of medication adherence, and did not fully model all adverse events. The AG also noted that there was not enough evidence to support subgroup analyses. The AG highlighted that the calculation of costs did not include transport costs for haemodialysis or continuing immunosuppressive therapy after graft loss. Its model included a number of assumptions, including assuming that graft function obeyed proportional hazards, that the effects of induction and maintenance regimens were independent, and that acute rejection, new-onset diabetes and graft function were independent. The AG highlighted that there are a number of uncertainties remaining in its analysis, in particular the predicted survival differences between regimens (because there is limited long-term evidence from randomised controlled trials), the effects of immunosuppressive therapy on health-related quality of life, the costs associated with new-onset diabetes and the availability of discounts from the list price for immunosuppressive drugs. 
+
+## _**Additional evidence at consultation**_ 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 37 -->
+
+## **CONFIDENTIAL UNTIL PUBLISHED** 
+
+4.55 Astellas provided additional evidence during consultation on the appraisal consultation document. The company highlighted that a randomised controlled study by Kuypers et al. (2013) that compared medication adherence between tacrolimus once-daily and twice-daily regimens had been excluded from the assessment report. The company stated that non-randomised evidence was also available, which suggested that prolonged-release tacrolimus improved adherence and reduced within-patient variability of tacrolimus trough concentrations (that is, the lowest concentration of the drug in the blood). It stated that these outcomes were associated with graft survival. The company suggested that these data should be used to model the proportion of patients adhering to their tacrolimus regimen. 
+
+4.56 The AG highlighted that the study by Kuypers et al. (2013) had a number of strengths, but also weaknesses, which limited its generalisability. The study considered people with a stable kidney transplant. However, it did not represent people having a transplant or those at increased risk because of non-adherence. The study showed that adherence increased by around 10% when people changed to prolonged-release tacrolimus. The AG agreed that the non-randomised evidence presented showed that prolongedrelease tacrolimus resulted in lower within-patient variability. The AG also agreed that there was evidence that non-adherence and high within-patient variability are associated with worse outcomes, generally graft loss. The AG noted that none of the non-randomised evidence studied people at increased risk because of nonadherence or high variability, so it may not be generalisable to this group. The AG also noted that no control groups were studied when people were switched from immediate-release to prolongedrelease tacrolimus, so it was not possible to estimate treatment effects. The AG commented that the changes suggested by the company to the economic modelling were not appropriate because 
+
+National Institute for Health and Care Excellence Page 35 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 38 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+of heterogeneity of definitions in the studies, and limitations related to generalisability. 
+
+## _**Committee discussion**_ 
+
+The Appraisal Committee reviewed the data available on the clinical and cost effectiveness of the technologies, having considered evidence on the nature of kidney transplant and organ rejection and the value placed on the benefits of immunosuppressive therapy by people with a kidney transplant, those who represent them, and clinical experts. It also took into account the effective use of NHS resources. 
+
+4.57 The Committee heard from the clinical experts that the key priority for clinicians is to prolong graft survival for as long as possible, while minimising adverse effects, with the ultimate goal of allowing people to return to normal life. The clinical experts considered that both quality of life and survival are better with a functioning kidney transplant than with dialysis. The patient experts described their experiences of kidney transplants and immunosuppressive regimens, and emphasised the value of maintaining a functioning kidney transplant. The Committee understood that effective immunosuppressive therapies are important to prevent organ rejection in adults having kidney transplants. 
+
+4.58 The Committee heard from the clinical experts that the choice between immunosuppressive therapies is affected by a number of factors, including the characteristics and preferences of the person having treatment. The Committee heard that the side effect profiles of each drug and the risk profile of the kidney donor and recipient are important considerations. In particular, the risks of new-onset diabetes, delayed graft function and nephrotoxicity may be key priorities for some people (for example, people of AfricanCaribbean and Asian family origins have a higher risk of developing 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 39 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+diabetes), whereas the level of immunological risk may be a priority for others. The clinical and patient experts therefore emphasised the importance of having access to a choice of treatment options to meet the needs of different people. The Committee acknowledged that immunosuppressive therapies are chosen based on a number of factors, and that some treatments may be particularly beneficial for individual people or groups of people. 
+
+4.59 The Committee discussed the technologies included in the assessment report. It noted that the final guidance would apply to the interventions listed in the scope and would not affect the current use in the NHS of ciclosporin, azathioprine and prednisolone (the standard triple therapy regimen), which were included as comparators only. A clinical expert suggested that the appraisal should consider alemtuzumab as an induction therapy. The Committee was aware that alemtuzumab does not have a marketing authorisation in the UK for immunosuppression after kidney transplant and is not routinely available for transplant patients (it is available on a ‘named patient’ basis). It was therefore not included in the scope for this appraisal. 
+
+## **Clinical effectiveness** 
+
+- 4.60 The Committee considered the clinical effectiveness evidence presented by the AG and companies. It accepted that the AG’s systematic review was comprehensive and found a large number of randomised controlled trials. The Committee heard from the clinical experts that additional observational evidence is available from the UK Transplant Registry. The AG stated that this evidence had been used in its economic model to inform the natural history of the condition. However, the Committee heard from the AG that there were some challenges with the recording of immunosuppressive regimens in the registry. Also there were relatively fewer people having the newer drugs in the registry than in the clinical trials, and 
+
+National Institute for Health and Care Excellence Page 37 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 40 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+so the clinical effectiveness evidence available from this source was limited. The Committee understood that the clinical experts were not aware of any additional evidence, and concluded that all the relevant randomised controlled trial evidence had been taken into account. 
+
+4.61 The Committee discussed the findings of the pooled head-to-head analyses and network meta-analyses for the induction therapies. It understood that both basiliximab and r-ATG were associated with statistically significant reductions in the incidence of acute rejection compared with placebo or treatment without induction. The Committee saw no evidence of a statistically significant difference between basiliximab and r-ATG, either in head-to-head comparisons or in the network meta-analysis. The Committee concluded that basiliximab and r-ATG are effective induction therapies, but there was no evidence of a difference in clinical effectiveness between them. 
+
+## 4.62 
+
+The Committee discussed the findings of the clinical effectiveness analyses for the maintenance therapies. It noted that head-to-head comparisons suggested that calcineurin inhibitors (tacrolimus and ciclosporin) were associated with statistically significant reductions in the incidence of acute rejection compared with belatacept, everolimus and sirolimus. It also noted that tacrolimus reduced the incidence of acute rejection compared with ciclosporin. The Committee noted that both belatacept and mycophenolate mofetil were associated with improved graft function compared with calcineurin inhibitors. The Committee noted that there were no consistent differences between immediate- and prolonged-release tacrolimus, or between mycophenolate mofetil and mycophenolate sodium. The Committee noted that the AG’s network meta-analysis presented a systematic comparison of maintenance regimens across 4 outcomes (mortality, graft loss, acute rejection and graft 
+
+National Institute for Health and Care Excellence Page 38 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 41 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+function). It noted that all regimens except belatacept plus mycophenolate mofetil showed evidence of improvement in acute rejection compared with ciclosporin plus azathioprine. However, belatacept plus mycophenolate mofetil statistically significantly increased graft function compared with ciclosporin plus azathioprine. The Committee understood that there was substantial heterogeneity in the AG’s network meta-analysis, and none of the maintenance regimens performed consistently well across all 4 outcomes. The Committee concluded that the maintenance therapies included in this appraisal are effective options for immunosuppression in adults having a kidney transplant, although limited conclusions on differences between these options can be drawn from the AG’s network meta-analysis. 
+
+## **Cost effectiveness** 
+
+- 4.63 The Committee reviewed the economic models presented by the AG and 3 companies. It heard from the clinical experts that they considered the AG’s model to represent current practice. The Committee considered in particular the modelling of quality of life, kidney donor types and maintenance therapy dosing. 
+
+   - The Committee noted that the AG modelled quality of life using fixed utility decrements for each health state, whereas Novartis assumed that quality of life would decrease as graft function decreased. The Committee heard from the clinical experts that people with kidney disease often have few symptoms until their kidney function (estimated glomerular filtration rate; eGFR) reaches about 25 ml/min/1.73 m[2] . Similarly, the patient experts reported good quality of life until they approached the end stages of kidney disease. The Committee understood that the Novartis model suggested that the cost-effectiveness results were very sensitive to the utility assumptions. It considered that Novartis’s analyses implied that the benefits had been 
+
+National Institute for Health and Care Excellence Page 39 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 42 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+underestimated for all treatments, and would be most underestimated for treatments with the largest beneficial effect on eGFR (such as belatacept plus mycophenolate mofetil and tacrolimus plus azathioprine). 
+
+- The Committee heard from the clinical experts that a major factor influencing graft survival is the type of organ donor and their age. The experts stated that kidney transplants from living donors have become more common in recent years, and are associated with longer graft survival than kidneys from donors who have died. The AG confirmed that its model included a mix of kidney donor types, and the Committee heard that the patterns of graft survival predicted by the model were consistent with the clinical experts’ expectations. 
+
+- The Committee noted comments from consultees stating that the dosage of maintenance therapies used in clinical practice is often lower than is recommended in their marketing authorisations, and often decreases over time. It heard from the clinical experts that the lower doses may be associated with a decrease in the incidence of new-onset diabetes. The AG stated that the model included a reduction in maintenance dosing over time, with the dosage stabilising after 1 to 3 years. The Committee accepted that the maintenance therapy dosages and the clinical outcomes associated with them in the AG’s model were based on clinical trials. 
+
+- The Committee discussed the drug costs used in the AG’s model and agreed that it was appropriate to use prices from eMIT, if available, because these reflect the prices paid by the NHS (see NICE’s guide to the methods of technology appraisal section 5.5.2). The Committee agreed that it was appropriate to consider the prices agreed with the Commercial Medicines Unit for Advagraf (prolonged-release tacrolimus capsules), Modigraf (tacrolimus granules for oral suspension) and Adoport 
+
+National Institute for Health and Care Excellence Page 40 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 43 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+(immediate-release tacrolimus) when making its recommendations, because these frameworks are nationally available to the NHS. It noted that the Commercial Medicines Unit framework agreements are guaranteed for a limited time, so it proposed to consider this guidance for review (see section 7) when the framework agreements expire. The Committee concluded that its preferred analysis used eMIT prices when available and the prices agreed with the Commercial Medicines Unit for Modigraf and Advagraf. 
+
+The Committee concluded that the AG's model was the most informative model for decision-making. 
+
+4.64 The Committee understood that in clinical practice, some treatments may be considered particularly valuable for certain groups of people (see section 4.58). It therefore considered whether there was any clinical and cost-effectiveness evidence for specific subgroups. The Committee noted that there were very little subgroup data for any of the interventions, and highlighted that the AG had not found enough evidence in its systematic review to inform robust subgroup analyses. The clinical experts acknowledged that there is limited evidence in this area. The Committee considered that there are likely to be some subgroups of people for whom individual treatment options may be particularly beneficial, but it had not seen sufficient evidence of clinical or cost effectiveness in specific subgroups. Therefore the Committee concluded that it was unable to make recommendations for any of the interventions in specific subgroups (see sections 4.75 and 4.76). 
+
+4.65 The Committee considered the effect of adherence on the clinical and cost effectiveness of immunosuppressive regimens. The Committee heard from patient experts that, although it took some adjustment, taking the medicines could be fitted into a daily routine. National Institute for Health and Care Excellence Page 41 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 44 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+The patient experts described some people who may find adherence more difficult, such as people at university and those who need to take a lot of medicines for other conditions. The clinical experts also noted that it is the evening dose of tacrolimus that is most often missed. The clinical experts stated that oncedaily dosing of tacrolimus (using the prolonged-release formulation) is likely to be helpful for some people, although there are others for whom it makes little difference. The Committee understood that there is limited evidence on the effect of once-daily dosing on adherence or clinical outcomes, and that it would be difficult to identify people who would benefit. The Committee noted that improved adherence associated with prolonged-release tacrolimus had been modelled by Astellas. It noted that this model was based on a single trial demonstrating the effect of once-daily tacrolimus on adherence, combined with a meta-analysis showing the effect of improved adherence on clinical outcomes. The Committee considered that the quality of the evidence informing this metaanalysis varied. The Committee also highlighted that it was unclear whether the company had captured the different effects of missing a dose of a once-daily or a twice-daily therapy, and that Astellas’s approach assumed the effectiveness of the whole regimen would be increased by improving adherence to tacrolimus. Therefore, the Committee considered that there were limitations in Astellas’s analysis. The Committee noted additional evidence received during consultation (see section 4.55). The AG highlighted that the study by Kuypers et al. (2013) had a number of strengths, but also weaknesses, which limited its generalisability. The Committee noted that the study did not report patient-related outcomes such as graft survival. It also noted the AG’s view that people had more contact with clinicians when they were transferred from immediaterelease tacrolimus to prolonged-release tacrolimus, which could be a potential reason for better adherence. The Committee considered 
+
+
+National Institute for Health and Care Excellence Page 42 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 45 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+that there may be some people for whom once-daily prolongedrelease tacrolimus could improve adherence. However considering all the evidence, the Committee concluded that it would be difficult to identify the people who would benefit from prolonged-release tacrolimus, and that the effect on clinical outcomes was uncertain. 
+
+## _**Basiliximab**_ 
+
+- 4.66 The Committee considered that basiliximab is a clinically effective treatment option. It noted that the AG’s economic model showed that basiliximab dominated (that is, provides more QALYs at a lower cost) both treatment without induction and r-ATG, when used with either tacrolimus-based or ciclosporin-based maintenance regimens. Therefore the Committee concluded that basiliximab was cost effective and could be recommended as part of a calcineurininhibitor-based immunosuppressive regimen, as an option to prevent organ rejection in adults having a kidney transplant. The Committee was aware that treatment with basiliximab plus tacrolimus was outside the terms of the marketing authorisation, and noted the exceptional directive from the Department of Health for this appraisal that covers this situation. The Committee was convinced that there was sufficient evidence to support this recommendation. 
+
+## _**Rabbit anti-human thymocyte immunoglobulin**_ 
+
+- 4.67 The Committee considered r-ATG to be a clinically effective induction therapy. It noted that in the AG’s economic model, r-ATG was dominated by basiliximab and was associated with ICERs compared with treatment without induction of £63,200 to £333,000 per QALY gained. The Committee understood that the AG’s model had assumed vials of r-ATG would be shared and there was no wastage of partially used vials. It heard from the clinical experts that this was unlikely, so considered that the costs of r-ATG could have been underestimated. The Committee also heard from the 
+
+National Institute for Health and Care Excellence Page 43 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 46 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+clinical experts that r-ATG causes short-term side effects and so can be unpleasant to take. The Committee acknowledged that there may be some subgroups of people, such as people with high immunological risk or delayed graft function, for whom r-ATG may provide additional benefits. The Committee noted comments received during consultation about evidence demonstrating r-ATG’s efficacy in people with high immunological risk. The Committee noted the Brennan (2006) study in which the mean peak panelreactive antibody was approximately 14% in both groups, with a mean value of about 6% at the time of transplant. The Committee questioned whether the study had included a high immunological risk group and considered that there was not enough evidence to support recommendations in people with high immunological risk. The Committee concluded that r-ATG is not a cost-effective use of NHS resources, for induction therapy for preventing organ rejection in adults having a kidney transplant. 
+
+## _**Tacrolimus**_ 
+
+- 4.68 The Committee heard from the clinical experts that tacrolimus is a potent immunosuppressive therapy, and noted that the immediaterelease formulation was cost effective in all comparisons presented by the AG. Therefore the Committee concluded that immediaterelease tacrolimus could be recommended as an option as part of an immunosuppressive regimen for preventing organ rejection in adults having a kidney transplant. 
+
+- 4.69 The Committee heard that there were no consistent statistically significant differences in clinical effectiveness between prolongedrelease and immediate-release tacrolimus. It noted that prolongedrelease tacrolimus was dominated by both immediate-release tacrolimus and ciclosporin in the AG’s economic analyses. Therefore the Committee did not consider prolonged-release tacrolimus to be cost effective. The Committee noted that Astellas’s 
+
+National Institute for Health and Care Excellence Page 44 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 47 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+submission stated that its formulation of prolonged-release tacrolimus (Advagraf) is available at a discount through an agreement with the Commercial Medicines Unit, and discussed a scenario analysis presented by the AG using this discount. The discount and the results of the scenario analysis are commercial in confidence and so cannot be reported here. The Committee considered that this scenario analysis did not affect its conclusion about the cost effectiveness of prolonged-release tacrolimus. Therefore the Committee concluded that prolonged-release tacrolimus is not a cost-effective use of NHS resources. 
+
+## _**Belatacept**_ 
+
+- 4.70 The Committee noted that belatacept was likely to be a clinically effective treatment, and in particular that belatacept plus mycophenolate mofetil increased graft function compared with ciclosporin plus azathioprine in the AG’s network meta-analysis. It was also aware that belatacept may be an option for people with nephrotoxicity or microangiopathy. The Committee accepted that belatacept was associated with ICERs ranging from £241,000 to £424,000 per QALY gained, compared with immediate-release tacrolimus, sirolimus and ciclosporin, and that these ICERs were substantially higher than the range normally considered cost effective. The Committee acknowledged that there may be some subgroups of people for whom belatacept may provide additional benefits, but considered that there was not enough evidence to support recommendations in specific subgroups. The Committee concluded that belatacept is not a cost-effective use of NHS resources. 
+
+## _**Mycophenolic acid**_ 
+
+- 4.71 The Committee noted that in the AG’s economic analysis, mycophenolate mofetil dominated both sirolimus and azathioprine, and was less costly and less effective than mycophenolate sodium 
+
+National Institute for Health and Care Excellence Page 45 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 48 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+and everolimus; it noted that the ICERs for these comparisons were £144,000 and £1,530,000 per QALY lost respectively. The Committee considered that mycophenolate mofetil was a clinically effective option, and was cost effective in all the comparisons presented. The Committee concluded that mycophenolate mofetil was a cost-effective use of NHS resources and could be recommended as an option as part of a calcineurin-inhibitor-based immunosuppressive regimen to prevent organ rejection in adults having a kidney transplant. 
+
+- 4.72 The Committee heard that there were no noticeable differences in clinical effectiveness between mycophenolate mofetil and mycophenolate sodium. It noted that mycophenolate sodium was associated with an ICER of £56,600 per QALY gained compared with azathioprine, and £144,000 per QALY gained compared with mycophenolate mofetil. The Committee concluded that mycophenolate sodium is not a cost-effective use of NHS resources. 
+
+## _**Sirolimus**_ 
+
+- 4.73 The Committee heard from the clinical experts that treatment with sirolimus can be difficult to manage in clinical practice, and may be associated with a range of adverse effects including peripheral oedema and bone marrow suppression. It also heard that anaemia may be more common with sirolimus and everolimus than with other immunosuppressive therapies (although the AG had assumed the rate would be equal across all regimens). The Committee noted that in the AG’s base-case economic analyses, sirolimus was dominated by immediate-release tacrolimus and mycophenolate mofetil. The Committee considered that this suggested that sirolimus was not cost effective, and noted that the cost effectiveness of sirolimus would worsen if the incidence of 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 49 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+anaemia increased. The Committee concluded that sirolimus is not a cost-effective use of NHS resources. 
+
+## _**Everolimus**_ 
+
+- 4.74 The Committee noted that the AG’s economic model suggested that everolimus may be more effective than mycophenolate mofetil and azathioprine, although it was also associated with higher costs. The Committee noted that the ICERs were £1,530,000 and £383,000 per QALY gained respectively, and were well above the range normally considered cost effective. The Committee was also aware that anaemia may be more common with sirolimus and everolimus than with other immunosuppressive therapies, and that this would worsen the cost effectiveness of everolimus in these comparisons. The Committee concluded that everolimus is not a cost-effective use of NHS resources. 
+
+## **Additional considerations** 
+
+- 4.75 The Committee understood that some treatments are associated with complications and so must be avoided or withdrawn for some people. Calcineurin inhibitors are associated with nephrotoxicity, which the clinical experts stated develops in about 5% of people soon after transplant. The Committee recognised that there is a need for other treatment options, such as sirolimus, when this complication arises. Sirolimus could potentially be a cost-effective use of NHS resources in this situation because the only alternative would be haemodialysis. However, the Committee had not seen evidence supporting the clinical or cost effectiveness of sirolimus in this situation and recognised that obtaining clinical trial evidence would be difficult. The Committee understood that sirolimus is routinely commissioned by NHS England for nephroxicity. The Committee recognised the clinical need and necessity to avoid calcineurin inhibitor toxicity. Although it understood that sirolimus was used in people who develop nephrotoxicity, because of the 
+
+National Institute for Health and Care Excellence Page 47 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 50 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+lack of clinical or cost effectiveness evidence, it concluded that it was unable to make recommendations for people with biopsyproven nephrotoxicity associated with the use of calcineurin inhibitors. 
+
+4.76 The Committee noted that a small number of people develop thrombotic microangiopathy during treatment with tacrolimus, ciclosporin, sirolimus or everolimus, and there are very few treatment options in this situation. The Committee recognised that there is a need for other treatment options when this complication arises. The Committee heard from the clinical experts that thrombotic microangiopathy is rare and occurs rapidly after transplant. It results in graft loss and the person needing haemodialysis. The clinical experts noted that belatacept is the only immunosuppressant that can be given in these circumstances. The Committee recognised the need for urgency in this situation and that individual funding requests might not be suitable or approved quickly enough. It also recognised that belatacept could potentially be a cost-effective use of NHS resources when thrombotic microangiopathy develops because the only alternative would be haemodialysis. However, the Committee had not seen evidence supporting the clinical or cost effectiveness of belatacept in this situation and recognised that clinical trial evidence would be difficult to obtain. The Committee concluded that it was not able to make recommendations for people whose treatment needs to be withdrawn as a result of thrombotic microangiopathy. 
+
+4.77 The Committee considered the bioequivalence of generic immunosuppressive therapies. It noted that calcineurin inhibitors have a narrow therapeutic index. It understood that the Commission on Human Medicines recommends that oral tacrolimus should be prescribed by brand name, and that care is needed when switching between drugs with a narrow therapeutic 
+
+National Institute for Health and Care Excellence Page 48 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 51 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+index (see the Medicines and Healthcare products Regulatory Agency’s drug safety update on oral tacrolimus products). The Committee heard from the clinical experts that this primarily applies to the drugs that are dosed based on plasma levels, such as tacrolimus, and that clinicians are aware of the risks associated with generic prescribing and switching formulations. The Committee understood that guidance on good practice in prescribing generic immunosuppressive therapies is routinely followed in clinical practice. The Committee also heard that clinicians are aware of cost differences between the different brands of immunosuppressive therapies, and take into account local costs in their prescribing decisions. The Committee concluded that it did not need to make additional recommendations about the bioequivalence of generic immunosuppressive therapies, and considered that if different preparations are equally suitable, it would be reasonable to recommend using the least expensive product when starting treatment. 
+
+4.78 The Committee was aware of NICE’s position statement on the Pharmaceutical Price Regulation Scheme (PPRS) 2014, and in particular the PPRS payment mechanism. It accepted the conclusion ‘that the 2014 PPRS payment mechanism should not, as a matter of course, be regarded as a relevant consideration in its assessment of the cost effectiveness of branded medicines’. The Committee heard nothing to suggest that there is any basis for taking a different view with regard to the relevance of the PPRS to this appraisal. It therefore concluded that the PPRS payment mechanism was not relevant in considering the cost effectiveness of any of the technologies in this appraisal. 
+
+- 4.79 The Committee noted the potential equality issue raised by consultees during scoping, in submissions and during the Committee meeting. It understood that some Jehovah’s Witnesses 
+
+National Institute for Health and Care Excellence Page 49 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 52 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+are unwilling to have human blood products, but noted that none of the recommended technologies are based on human blood products. The Committee understood that effective immunosuppression may be particularly beneficial for people from black, Asian and minority ethnic groups, and noted that a number of effective treatment options are available. The Committee also heard that mycophenolate mofetil cannot be taken by women who are pregnant and noted that alternative effective treatment options are available. The Committee discussed providing immunosuppressive therapy for adults who cannot swallow capsules as a result of a disability. The Committee noted that these people might need oral suspensions instead. The Committee noted that oral suspensions are available for immediate-release tacrolimus (Modigraf) and mycophenolate mofetil (CellCept), and that these products have a marketing authorisation in the UK. The suspensions are more expensive than the capsules. The Committee agreed that it would be unfair if people who cannot swallow capsules as a result of a disability were not able to have immediate-release tacrolimus and mycophenolate mofetil, because these treatments are clinically effective. It noted that restricting access in this way might discriminate against adults with disabilities. The Committee concluded that, when prescribing immediate-release tacrolimus or mycophenolate mofetil, treatment should normally be started with the least expensive product. However it further concluded that treatment could be started with an alternative dosage form if the adult is not able to swallow capsules because of a disability. The Committee agreed that Modigraf should be used only if the company provides Modigraf at the price agreed with the Commercial Medicines Unit. 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 53 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## _**Summary of Appraisal Committee’s key conclusions**_ 
+
+|**TAXXX**|**Appraisal title:**<br>**Immunosuppressive**<br>**therapy for kidney**<br>**transplant inadults**|**Section**|
+|---|---|---|
+|**Key conclusion**|||
+|Basiliximab, immediate-release tacrolimus and mycophenolate<br>mofetil are recommended as options to prevent organ rejection<br>in adults having a kidney transplant.<br>The Committee considered that basiliximab is a clinically<br>effective treatment option, and provided more quality-<br>adjusted life years (QALYs) at a lower cost than treatment<br>without induction and rabbit anti-human thymocyte<br>immunoglobulin (r-ATG).<br>The Committee heard that tacrolimus is a potent<br>immunosuppressive therapy, and considered that<br>immediate-release tacrolimus was cost effective.<br>The Committee considered that mycophenolate mofetil was<br>a clinically effective option, and was cost effective in all the<br>comparisons presented.<br>r-ATG, prolonged-release tacrolimus, mycophenolate sodium,<br>sirolimus, everolimus and belatacept are not recommended.<br>The Committee considered that r-ATG was clinically<br>effective, but concluded that it was not cost effective.<br>The Committee noted that there were no consistent<br>differences in clinical effectiveness between immediate- and<br>prolonged-release tacrolimus. It considered that prolonged-<br>release tacrolimus was not cost effective.<br>The Committee noted that belatacept was likely to be<br>clinically effective, but was associated with incremental cost-||1.1–1.3<br>4.66<br>4.68<br>4.71<br>1.4<br>4.67<br>4.69<br>4.70|
+|National Institute for Health and Care Excellence<br>Page 51 of 73|||
+
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 54 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|effectiveness ratios (ICERs) substantially higher than the||
+|---|---|
+|range normally considered cost effective.||
+|The Committee heard that there were no noticeable|4.72|
+|differences in clinical effectiveness between mycophenolate||
+|mofetil and mycophenolate sodium, and concluded that||
+|mycophenolate sodium was not cost effective.||
+|The Committee noted that sirolimus was not a cost-effective|4.73|
+|treatment option.||
+|The Committee noted the economic modelling suggested|4.74|
+|that everolimus may be more effective than mycophenolate||
+|mofetil and azathioprine, although it was not cost effective.||
+|**Current practice**||
+
+
+
+|effectiveness ratios (ICERs) substantially higher than the<br>range normally considered cost effective.<br>The Committee heard that there were no noticeable<br>differences in clinical effectiveness between mycophenolate<br>mofetil and mycophenolate sodium, and concluded that<br>mycophenolate sodium was not cost effective.<br>The Committee noted that sirolimus was not a cost-effective<br>treatment option.<br>The Committee noted the economic modelling suggested<br>that everolimus may be more effective than mycophenolate<br>mofetil and azathioprine, although it was not cost effective.|effectiveness ratios (ICERs) substantially higher than the<br>range normally considered cost effective.<br>The Committee heard that there were no noticeable<br>differences in clinical effectiveness between mycophenolate<br>mofetil and mycophenolate sodium, and concluded that<br>mycophenolate sodium was not cost effective.<br>The Committee noted that sirolimus was not a cost-effective<br>treatment option.<br>The Committee noted the economic modelling suggested<br>that everolimus may be more effective than mycophenolate<br>mofetil and azathioprine, although it was not cost effective.|4.72<br>4.73<br>4.74|
+|---|---|---|
+|**Current practice**|||
+|Clinical need of<br>patients, including<br>the availability of<br>alternative<br>treatments|The Committee understood that effective<br>immunosuppressive therapies are<br>important to prevent organ rejection in<br>adults having kidney transplants.<br>The Committee heard that the choice<br>between immunosuppressive therapies<br>is affected by a number of factors,<br>including the characteristics and<br>preferences of the person having<br>treatment. The Committee understood<br>the value of having a choice of<br>immunosuppressive therapies.|4.57<br>4.58|
+|**The technologies**|||
+|Proposed benefits<br>of the technologies<br>How innovative are|The Committee heard that the key<br>priority for immunosuppressive therapy is<br>to prolong graft survival for as long as<br>possible, while minimising adverse|4.57|
+
+
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 55 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|the technologies in<br>their potential to<br>make a significant<br>and substantial<br>impact on health-<br>related benefits?|effects. The clinical experts considered<br>that both quality of life and survival are<br>better with a functioning kidney<br>transplant than with dialysis, and the<br>patient experts emphasised the value of<br>maintaining a functioning kidney<br>transplant.||
+|---|---|---|
+|What are the<br>positions of the<br>treatments in the<br>pathway of care for<br>the condition?|Immunosuppressive therapy can be<br>categorised as induction therapy and<br>maintenance therapy. Induction therapy<br>is an intensive immunosuppression<br>regimen that is used for up to 2 weeks<br>around the time of transplant and may<br>include polyclonal or monoclonal<br>antibodies. Maintenance therapy starts<br>immediately after transplant and<br>continues for life.<br>Basiliximab and r-ATG are options for<br>induction therapy. Tacrolimus,<br>belatacept, mycophenolate mofetil,<br>mycophenolate sodium, sirolimus and<br>everolimus are options for maintenance<br>therapy.<br>The Committee understood that in<br>clinical practice, some treatments may<br>be considered particularly valuable for<br>certain groups of people.|2.3<br>–<br>4.64|
+|Adverse reactions|The Assessment Group (AG)<br>summarised adverse event data focusing<br>on 6 groups of adverse events: new-|4.16|
+|National Institute for Health and Care Excellence<br>Page 53 of 73|||
+
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 56 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+||onset diabetes, malignancy, post-<br>transplant lymphoproliferative disorders,<br>infections, cytomegalovirus (CMV)<br>infections and dyslipidaemia.<br>The AG found evidence to suggest that<br>r-ATG may be associated with an<br>increase in CMV infections, and found a<br>number of significant differences<br>between maintenance treatments in the<br>incidence of diabetes, all infections and<br>CMV infections.<br>The AG also found evidence to suggest<br>that everolimus and sirolimus may be<br>associated with an increased risk of<br>dyslipidaemia and anaemia, and<br>consultees stated that sirolimus and<br>everolimus may have adverse effects on<br>wound healing. The Committee heard<br>that sirolimus may be associated with a<br>range of adverse effects including<br>peripheral oedema and bone marrow<br>suppression.|4.17, 4.18<br>4.19, 4.20,<br>4.73|
+|---|---|---|
+|**Evidence for clinical effectiveness**|||
+|Availability, nature<br>and quality of<br>evidence|The AG’s systematic review found<br>86 randomised controlled trials, including<br>11 studies of induction therapies,<br>73 studies of maintenance therapies and<br>2 studies examining both induction and<br>maintenance therapies.|4.1|
+
+
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 57 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+||The Committee noted that the AG’s<br>systematic review was comprehensive<br>and found a large number of randomised<br>controlled trials. It concluded that all the<br>relevant clinical effectiveness<br>randomised controlled trial evidence had<br>been taken into account.|4.60|
+|---|---|---|
+|Relevance to<br>general clinical<br>practice in the NHS|The AG considered that only 11 trials<br>adequately matched the population and<br>current practice in the NHS in England.|4.1|
+|Uncertainties<br>generated by the<br>evidence|The Committee understood that there<br>was substantial heterogeneity in the<br>AG’s network meta-analysis, and none of<br>the maintenance regimens performed<br>consistently well across all 4 outcomes.<br>The Committee considered that limited<br>conclusions on differences between<br>these options can be drawn from the<br>AG’s network meta-analysis.<br>The Committee understood that there is<br>limited evidence on the effect of once-<br>daily dosing on adherence or clinical<br>outcomes, and that it would be difficult to<br>identify people who would benefit. It<br>concluded that the effect on clinical<br>outcomes was uncertain.|4.62<br>4.65|
+|Are there any<br>clinically relevant<br>subgroups for which<br>there is evidence of|The Committee noted that there were<br>very little subgroup data for any of the<br>interventions. It considered that there are<br>likely to be some subgroups of people for|4.64|
+|National Institute for Health and Care Excellence<br>Page 55 of 73|||
+
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 58 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|differential<br>effectiveness?|whom individual treatment options may<br>be particularly beneficial, but it had not<br>seen sufficient evidence of clinical or<br>cost effectiveness in specific subgroups.<br>The Committee understood that some<br>treatments are associated with<br>complications and so must be avoided or<br>withdrawn for some people. The<br>Committee was aware that it had not<br>seen evidence supporting the clinical or<br>cost effectiveness of alternative<br>treatments in these situations.|4.75–4.76|
+|---|---|---|
+|Estimate of the size<br>of the clinical<br>effectiveness<br>including strength of<br>supporting evidence|The AG’s network meta-analysis showed<br>that basiliximab and r-ATG were<br>significantly more effective than<br>treatment without induction for acute<br>rejection (odds ratios 0.52 and 0.36<br>respectively). The Committee concluded<br>that basiliximab and r-ATG are effective<br>induction therapies, but there was no<br>evidence of a difference in clinical<br>effectiveness between them.<br>The AG’s network meta-analysis showed<br>a number of statistically significant<br>differences between regimens, although<br>none of the maintenance regimens<br>performed consistently well across all<br>4 outcomes assessed. The Committee<br>saw that all regimens except belatacept<br>plus mycophenolate mofetil showed|4.3–4.4,<br>4.61<br>4.15, 4.62|
+
+
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 59 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|||evidence of improvement in acute<br>rejection compared with ciclosporin plus<br>azathioprine, although belatacept plus<br>mycophenolate mofetil significantly<br>increased graft function. The Committee<br>concluded that the maintenance<br>therapies are effective options.||
+|---|---|---|---|
+|How has the new<br>clinical evidence<br>that has emerged<br>since the original<br>appraisal (TA85)<br>influenced the<br>current (preliminary)<br>recommendations?||The AG’s systematic review found<br>86 randomised controlled trials, of which<br>23 were included in NICE’s original<br>technology appraisal guidance on<br>immunosuppressive therapy for kidney<br>transplantation in adults,and 63 were<br>identified in the updated systematic<br>review for the current appraisal. The<br>Committee noted that the AG’s<br>systematic review was comprehensive<br>and found a large number of randomised<br>controlled trials, and discussed the<br>findings of the clinical effectiveness<br>analyses for the induction and<br>maintenance therapies.<br>Since the original NICE technology<br>appraisal guidance on<br>immunosuppressive therapy for kidney<br>transplantation in adults was published in<br>2004, the marketing authorisation for<br>daclizumab has been withdrawn and<br>new technologies have received<br>marketing authorisations.|4.1, 4.60–<br>4.62<br>2.4|
+
+
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 60 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Evidence for cost effectiveness** 
+
+|**Evidence for cost effectiveness**|**Evidence for cost effectiveness**|**Evidence for cost effectiveness**|
+|---|---|---|
+|Availability and<br>nature of evidence|Economic analyses were presented by<br>the AG, Astellas, Bristol-Myers Squibb<br>and Novartis.<br>The AG presented an economic<br>model based on a discrete-time state<br>transition structure.<br>Astellas submitted a Markov model<br>and presented results for each<br>immunosuppressive drug compared<br>with immediate-release tacrolimus.<br>Bristol-Myers Squibb presented an<br>analysis of the cost effectiveness of<br>belatacept compared with tacrolimus<br>and ciclosporin, based on a 36-month<br>initial phase followed by a longer-term<br>Markov model.<br>Novartis presented a patient-level<br>simulation model to capture the cost<br>effectiveness of everolimus plus<br>reduced-dose ciclosporin and<br>mycophenolate sodium plus standard-<br>dose ciclosporin, compared with<br>mycophenolate mofetil plus standard-<br>dose ciclosporin or tacrolimus.|4.23<br>4.24<br>4.38, 4.39<br>4.41<br>4.45|
+|Uncertainties<br>around and<br>plausibility of<br>assumptions and<br>inputs in the|The Committee noted that the AG and<br>Novartis modelled quality of life<br>differently. It understood that the<br>Novartis model suggested that the cost-<br>effectiveness results were very sensitive|4.63|
+
+
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 61 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+|economic model|to the utility assumptions.<br>The Committee concluded that the AG's<br>model provided a robust analysis of cost<br>effectiveness.||
+|---|---|---|
+|Incorporation of<br>health-related<br>quality-of-life<br>benefits and utility<br>values<br>Have any potential<br>significant and<br>substantial health-<br>related benefits<br>been identified that<br>were not included in<br>the economic<br>model, and how<br>have they been<br>considered?|The Committee noted that the AG<br>modelled quality of life using fixed utility<br>decrements for each health state.<br>The Committee noted that Novartis<br>assumed that quality of life would<br>decrease as graft function decreased. It<br>considered that Novartis’s analyses<br>implied that the benefits had been<br>underestimated for all treatments, and<br>would be most underestimated for<br>treatments with the largest beneficial<br>effect on graft function.|4.63|
+|Are there specific<br>groups of people for<br>whom the<br>technology is<br>particularly cost<br>effective?|The Committee noted that there were<br>very little subgroup data for any of the<br>interventions. It considered that there are<br>likely to be some subgroups of people for<br>whom individual treatment options may<br>be particularly beneficial, but it had not<br>seen sufficient evidence of clinical or<br>cost effectiveness in specific subgroups.<br>The Committee understood that some<br>treatments are associated with|4.64<br>4.75–4.76|
+
+
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 62 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+||complications and so must be avoided or<br>withdrawn for some people. The<br>Committee was conscious that it had not<br>seen evidence supporting the clinical or<br>cost effectiveness of alternative<br>treatments in these situations.||
+|---|---|---|
+|What are the key<br>drivers of cost<br>effectiveness?|The Committee understood that the cost-<br>effectiveness results were very sensitive<br>to the utility assumptions.<br>The AG explored uncertainties in the<br>model structure using 5 scenario<br>analyses and a probabilistic sensitivity<br>analysis. Scenario analyses explored the<br>effect of the surrogate relationship<br>between graft survival and clinical<br>variables, possible nephrotoxicity<br>associated with calcineurin inhibitors,<br>and the costs of treatment.|4.63, 4.35–<br>4.36|
+|Most likely cost-<br>effectiveness<br>estimate (given as<br>an ICER)|Basiliximab dominated (provided more<br>QALYs at a lower cost) treatment<br>without induction and r-ATG.<br>r-ATG was dominated by basiliximab<br>and was associated with ICERs<br>compared with treatment without<br>induction of £63,200 to £333,000 per<br>QALY gained.<br>Immediate-release tacrolimus:<br>dominated prolonged-release<br>tacrolimus, sirolimus and ciclosporin<br>(in 1 of 4 comparisons); was less|4.66<br>4.67<br>4.33|
+
+
+
+
+National Institute for Health and Care Excellence Page 60 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 63 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+costly and less effective than belatacept and ciclosporin, with ICERs ranging from £131,035 to £388,740 per QALY lost.  Prolonged-release tacrolimus was dominated by both immediate-release 4.69 tacrolimus and ciclosporin.  Belatacept was associated with ICERs of £241,000 to £424,000 per QALY 4.70 gained, compared with immediaterelease tacrolimus, sirolimus and ciclosporin.  Mycophenolate mofetil dominated both sirolimus and azathioprine, and was less costly and less effective than 4.71 mycophenolate sodium and everolimus with ICERs of £144,000 and £1,530,000 per QALY lost respectively.  Mycophenolate sodium was associated with an ICER of £56,600 4.1672 per QALY gained compared with azathioprine, and £144,000 per QALY gained compared with mycophenolate mofetil.  Sirolimus was dominated by 4.173 mycophenolate mofetil and immediate-release tacrolimus.  Everolimus was associated with 4.1874 ICERs of £1,530,000 and £383,000 per QALY gained, compared with mycophenolate mofetil and 
+
+National Institute for Health and Care Excellence 
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 64 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+||azathioprine respectively.||
+|---|---|---|
+|How has the new<br>cost-effectiveness<br>evidence that has<br>emerged since the<br>original appraisal<br>(TA85) influenced<br>the current<br>(preliminary)<br>recommendations?|Economic analyses were presented by<br>the AG, Astellas, Bristol-Myers Squibb<br>and Novartis. The AG’s model was<br>independent of that built for NICE’s<br>technology appraisal guidance on<br>immunosuppressive therapy for renal<br>transplantation in adults.The AG<br>highlighted that the previous analysis<br>had not fully accounted for uncertainty<br>and had not taken into account the effect<br>of kidney function on clinical and<br>economic outcomes. Since the original<br>appraisal, some of the technologies have<br>become available generically.<br>The Committee concluded that the AG's<br>model provided a robust analysis of cost<br>effectiveness and was the most<br>informative model for decision-making.|2.4, 4.23,<br>4.24<br>4.63|
+|**Additional factors taken into account**|||
+|Patient access<br>schemes (PPRS)|Not applicable|–|
+|End-of-life<br>considerations|Not applicable|–|
+|Equalities<br>considerations and<br>social value<br>judgements|The Committee understood that some<br>Jehovah’s Witnesses are unwilling to<br>have human blood products, that<br>effective immunosuppression may be|4.79|
+|National Institute for Health and Care Excellence<br>Page 62 of 73|||
+
+
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 65 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+particularly beneficial for people from black, Asian and minority ethnic groups, and that mycophenolate mofetil cannot be taken by women who are pregnant. The Committee understood some adults 1.2, 4.79 may not be able to swallow capsules as a result of a disability. The Committee noted that these people might need oral suspensions instead. 
+
+## **5 Implementation** 
+
+- 5.1 Section 7(6) of the National Institute for Health and Care Excellence (Constitution and Functions) and the Health and Social Care Information Centre (Functions) Regulations 2013 requires clinical commissioning groups, NHS England and, with respect to their public health functions, local authorities to comply with the recommendations in this appraisal within 3 months of its date of publication. 
+
+- 5.2 The Welsh Assembly Minister for Health and Social Services has issued directions to the NHS in Wales on implementing NICE technology appraisal guidance. When a NICE technology appraisal recommends the use of a drug or treatment, or other technology, the NHS in Wales must usually provide funding and resources for it within 3 months of the guidance being published. 
+
+- 5.3 When NICE recommends a treatment ‘as an option’, the NHS must make sure it is available within the period set out in the paragraphs above. This means that, if a patient is having a kidney transplant and the doctor responsible for their care thinks that basiliximab, immediate-release tacrolimus and/or mycophenolate mofetil is the 
+
+National Institute for Health and Care Excellence Page 63 of 73 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 66 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+right treatment, these drugs should be available for use, in line with NICE’s recommendations. 
+
+5.4 The NHS procures Modigraf at a confidential discounted price agreed through a national tender with Astellas Pharma. The price is agreed until April 2016. [NICE to add details at time of publication] The prices used for decision-making in this appraisal are the relevant prices the NHS pays for Modigraf. These prices are based on contract pricing arrangements between the company and the Commercial Medicines Unit. The prices agreed through the framework are commercial in confidence. Any enquiries from NHS organisations about the prices used in this appraisal should be directed to the Commercial Medicines Unit. 
+
+## **6 Related NICE guidance** 
+
+Details are correct at the time of consultation and will be removed when the final guidance is published. Further information is available on the NICE website. 
+
+## **Published** 
+
+- Chronic kidney disease: early identification and management of chronic kidney disease in adults in primary and secondary care (2014) NICE guideline CG182 
+
+- Chronic kidney disease (2011) NICE quality standard 5 
+
+- Machine perfusion systems and cold static storage of kidneys from deceased donors (2009). NICE technology appraisal guidance TA165 
+
+- Immunosuppressive therapy for renal transplantation in children and adolescents (2006) NICE technology appraisal guidance TA99 
+
+- Immunosuppressive therapy for renal transplantation in adults (2004) NICE technology appraisal guidance TA85 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 67 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Under development** 
+
+NICE is developing the following guidance (details available from www.nice.org.uk): 
+
+- Immunosuppressive therapy for renal transplantation in children and adolescents (review of existing guidance 99). NICE technology appraisal guidance (publication expected January 2016) 
+
+## **NICE pathways** 
+
+- There is a NICE pathway on chronic kidney disease. 
+
+## **7 Review of guidance** 
+
+- 7.1 Recommendation 1.2 will be considered for review by the Guidance Executive in April 2016. This date reflects the period for which the price agreed with the Commercial Medicines Unit for Modigraf has been guaranteed. The remaining recommendations will be considered for review by the Guidance Executive 3 years after publication of the guidance. The Guidance Executive will decide whether the technologies should be reviewed based on information gathered by NICE, and in consultation with consultees and commentators. 
+
+Gary McVeigh 
+
+Chair, Appraisal Committee December 2015 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 68 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **8 Appraisal Committee members and NICE project team** 
+
+## _**Appraisal Committee members**_ 
+
+The Appraisal Committees are standing advisory committees of NICE. Members are appointed for a 3-year term. A list of the Committee members who took part in the discussions for this appraisal appears below. There are 4 Appraisal Committees, each with a chair and vice chair. Each Appraisal Committee meets once a month, except in December when there are no meetings. Each Committee considers its own list of technologies, and ongoing topics are not moved between Committees. 
+
+Committee members are asked to declare any interests in the technology to be appraised. If it is considered there is a conflict of interest, the member is excluded from participating further in that appraisal. 
+
+The minutes of each Appraisal Committee meeting, which include the names of the members who attended and their declarations of interests, are posted on the NICE website. 
+
+## **Professor Gary McVeigh (Chair)** 
+
+Professor of Cardiovascular Medicine, Queen’s University Belfast and Consultant Physician, Belfast City Hospital 
+
+## **Dr Lindsay Smith (Vice Chair)** 
+
+GP, West Coker Surgery, Somerset 
+
+## **Dr Aomesh Bhatt** 
+
+Regulatory and Medical Affairs Director Europe and North America, Reckitt Benckiser 
+
+## **Dr Andrew Black** 
+
+GP, Mortimer Medical Practice, Herefordshire 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 69 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Professor David Bowen** 
+
+Consultant Haematologist, Leeds Teaching Hospitals NHS Trust 
+
+## **Dr Matthew Bradley** 
+
+Vice President, Value Evidence and Outcomes, GlaxoSmithKline 
+
+## **Ms Tracey Cole** 
+
+Lay Member 
+
+## **Dr Ian Davidson** 
+
+Lecturer in Rehabilitation, University of Manchester 
+
+## **Professor Simon Dixon** 
+
+Professor of Health Economics, University of Sheffield 
+
+## **Mrs Susan Dutton** 
+
+Senior Medical Statistician, Oxford Clinical Trials Research Unit 
+
+## **Dr Alexander Dyker** 
+
+Consultant Physician, Wolfson Unit of Clinical Pharmacology, University of Newcastle 
+
+## **Mrs Gillian Ells** 
+
+Prescribing Advisor – Commissioning, NHS Hastings and Rother and NHS East Sussex Downs and Weald 
+
+## **Professor Paula Ghaneh** 
+
+Professor and Honorary Consultant Surgeon, University of Liverpool 
+
+## **Dr Susan Griffin** 
+
+Research Fellow, Centre for Health Economics, University of York 
+
+## **Professor Carol Haigh** 
+
+Professor in Nursing, Manchester Metropolitan University 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 70 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Professor John Henderson** 
+
+Professor of Paediatric Respiratory Medicine, University of Bristol and Bristol Royal Hospital for Children 
+
+## **Dr Tim Kinnaird** 
+
+Lead Interventional Cardiologist, University Hospital of Wales, Cardiff 
+
+## **Dr Warren Linley** 
+
+Independent Pharmacist and Health Economist 
+
+## **Dr Malcolm Oswald** 
+
+Lay Member 
+
+## **Professor Femi Oyebode** 
+
+Professor of Psychiatry and Consultant Psychiatrist, The National Centre for Mental Health 
+
+## **Dr Mohit Sharma** 
+
+Consultant in Public Health, Public Health England 
+
+## **Dr Murray Smith** 
+
+Associate Professor in Social Research in Medicines and Health, University of Nottingham 
+
+## _**NICE project team**_ 
+
+Each technology appraisal is assigned to a team consisting of 1 or more 
+
+health technology analysts (who act as technical leads for the appraisal), a technical adviser and a project manager. 
+
+## **Ian Watson, Liesl Millar and Christian Griffiths** 
+
+Technical Lead 
+
+## **Sally Doss** 
+
+Technical Adviser 
+
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 71 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+## **Kate Moore** 
+
+Project Manager 
+
+## **9 Sources of evidence considered by the Committee** 
+
+A. The assessment report for this appraisal was prepared by Peninsula Technology Assessment Group (PenTAG): 
+
+- Jones-Hughes T, et al. Immunosuppressive therapy for kidney transplantation in adults (review of technology appraisal guidance 85); a systematic review and economic model, March 2015 
+
+B. The following organisations accepted the invitation to participate in this appraisal as consultees and commentators. They were invited to comment on the draft scope, assessment report and the appraisal consultation document (ACD). Organisations listed in I, II and III were also invited to make written submissions and have the opportunity to appeal against the final appraisal determination. 
+
+## I. Companies: 
+
+- Astellas Pharma 
+
+- Bristol-Myers Squibb 
+
+- Novartis Pharmaceuticals 
+
+- Roche Products 
+
+- Sandoz 
+
+- Sanofi 
+
+- Teva 
+
+II. Professional/expert and patient/carer groups: 
+
+- British Kidney Patient Association 
+
+- Kidney Research UK 
+
+- National Kidney Federation 
+
+National Institute for Health and Care Excellence 
+
+Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+
+<!-- page 72 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- British Association of Urological Surgeons 
+
+- British Renal Society 
+
+- British Transplantation Society 
+
+- ESPRIT 
+
+- Renal Association 
+
+- Royal College of Physicians 
+
+## III. Other consultees: 
+
+- Department of Health 
+
+- NHS England 
+
+- Welsh Government 
+
+IV. Commentator organisations (without the right of appeal): 
+
+- Department of Health, Social Services and Public Safety for Northern Ireland 
+
+- Healthcare Improvement Scotland 
+
+- Chiesi 
+
+- Intrapharm Laboratories 
+
+- Novartis Pharmaceuticals 
+
+- Sandoz 
+
+- Teva 
+
+C. The following individuals were selected from clinical expert and patient expert nominations from the consultees and commentators. They participated in the Appraisal Committee discussions and provided evidence to inform the Appraisal Committee’s deliberations. They gave their expert personal view on immunosuppressive therapy for kidney transplantation in adults by attending the initial Committee discusfsion and/or providing a written statement to the Committee. They were also invited to comment on the ACD. 
+
+
+National Institute for Health and Care Excellence Page 70 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
+
+
+<!-- page 73 -->
+
+**CONFIDENTIAL UNTIL PUBLISHED** 
+
+- Professor Christopher Watson, Professor of Transplantation and Honorary Consultant Surgeon, nominated by Bristol-Myers Squibb – clinical expert 
+
+- Mr Colin Wilson, Consultant Transplant and Hepatobiliary Surgeon, nominated by Cochrane Renal Group – clinical expert 
+
+- Jason Clark, nominated by Kidney Research UK – patient expert 
+
+- Keith Pennington, nominated by the British Kidney Patient Association 
+
+D. The following individuals were nominated as NHS commissioning experts by NHS England. They gave their /NHS commissioning view on 
+
+immunosuppressive therapy for kidney transplantation in adults by attending the initial Committee discussion and providing a written statement to the Committee. They were also invited to comment on the ACD. 
+
+- Mr Keith Rigg, Renal Transplant Clinical Reference Group,  selected by NHS England – NHS commissioning expert 
+
+E. Representatives from the following companies attended Committee meetings. They contributed only when asked by the Committee chair to clarify specific issues and comment on factual accuracy. 
+
+- Astellas 
+
+- Bristol-Myers Squibb 
+
+- Novartis 
+
+- Sandoz 
+
+- Sanofi 
+
+- Teva 
+
+
+National Institute for Health and Care Excellence Page 71 of 73 Final appraisal determination – Immunosuppressive therapy for kidney transplant in adults (review of technology appraisal guidance 85) 
+
+
